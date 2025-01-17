@@ -1,5 +1,6 @@
 # Kode for plot av amplituderespons og faserespons:
 # Avhengig av at enkodingen til grader (°) symbolet er UTF-8
+# Gir i utgangspunktet y-verdier i samme format som de puttes inn
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -25,7 +26,7 @@ def parse_line(line):
     return None
 
 # File path (update with your actual file path)
-file_path = "Steg1.txt"  # Replace with the correct file name
+file_path = "TXT filer\steg1.txt"  # Replace with the correct file name
 
 # Lists to store parsed data
 freqs, magnitudes_dB, phases_deg = [], [], []
