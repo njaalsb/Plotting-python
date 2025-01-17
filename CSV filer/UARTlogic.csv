@@ -1,0 +1,4104 @@
+#Digilent WaveForms Logic Analyzer Acquisition
+#Device Name: Discovery2
+#Serial Number: SN:210321B9C964
+#Date Time: 2024-11-15 15:30:01.158
+#Sample rate: 400Hz
+#Samples: 4096
+
+Time (s),UART2,UART
+-2.6175,X,X
+-2.615,X,X
+-2.6125,X,X
+-2.61,X,X
+-2.6075,X,X
+-2.605,X,X
+-2.6025,X,X
+-2.6,X,X
+-2.5975,X,X
+-2.595,X,X
+-2.5925,X,X
+-2.59,X,X
+-2.5875,X,X
+-2.585,X,X
+-2.5825,X,X
+-2.58,X,X
+-2.5775,X,X
+-2.575,X,X
+-2.5725,X,X
+-2.57,X,X
+-2.5675,X,X
+-2.565,X,X
+-2.5625,X,X
+-2.56,X,X
+-2.5575,X,X
+-2.555,X,X
+-2.5525,X,X
+-2.55,X,X
+-2.5475,X,X
+-2.545,X,X
+-2.5425,X,X
+-2.54,X,X
+-2.5375,X,X
+-2.535,X,X
+-2.5325,X,X
+-2.53,X,X
+-2.5275,X,X
+-2.525,X,X
+-2.5225,X,X
+-2.52,X,X
+-2.5175,X,X
+-2.515,X,X
+-2.5125,X,X
+-2.51,X,X
+-2.5075,hD4[Ô],X
+-2.505,hD4[Ô],X
+-2.5025,hD4[Ô],X
+-2.5,hD4[Ô],X
+-2.4975,hD4[Ô],X
+-2.495,hD4[Ô],X
+-2.4925,hD4[Ô],X
+-2.49,hD4[Ô],X
+-2.4875,hD4[Ô],X
+-2.485,hD4[Ô],X
+-2.4825,hD4[Ô],X
+-2.48,hD4[Ô],X
+-2.4775,hD4[Ô],X
+-2.475,hD4[Ô],X
+-2.4725,hD4[Ô],X
+-2.47,hD4[Ô],X
+-2.4675,hD4[Ô],X
+-2.465,hD4[Ô],X
+-2.4625,hD4[Ô],X
+-2.46,hD4[Ô],X
+-2.4575,hD4[Ô],X
+-2.455,hD4[Ô],X
+-2.4525,hD4[Ô],X
+-2.45,hD4[Ô],X
+-2.4475,hD4[Ô],X
+-2.445,hD4[Ô],X
+-2.4425,hD4[Ô],X
+-2.44,hD4[Ô],X
+-2.4375,hD4[Ô],X
+-2.435,hD4[Ô],X
+-2.4325,hD4[Ô],X
+-2.43,hD4[Ô],X
+-2.4275,hD4[Ô],X
+-2.425,hD4[Ô],X
+-2.4225,hD4[Ô],X
+-2.42,hD4[Ô],X
+-2.4175,hD4[Ô],X
+-2.415,hD4[Ô],X
+-2.4125,hD4[Ô],X
+-2.41,hD4[Ô],X
+-2.4075,hD4[Ô],X
+-2.405,hD4[Ô],X
+-2.4025,hD4[Ô],X
+-2.4,hD4[Ô],X
+-2.3975,hD4[Ô],X
+-2.395,hD4[Ô],X
+-2.3925,hD4[Ô],X
+-2.39,hD4[Ô],X
+-2.3875,hD4[Ô],X
+-2.385,hD4[Ô],X
+-2.3825,hD4[Ô],X
+-2.38,hD4[Ô],X
+-2.3775,hD4[Ô],X
+-2.375,hD4[Ô],X
+-2.3725,hD4[Ô],X
+-2.37,hD4[Ô],X
+-2.3675,hD4[Ô],X
+-2.365,hD4[Ô],X
+-2.3625,hD4[Ô],X
+-2.36,hD4[Ô],X
+-2.3575,hD4[Ô],X
+-2.355,hD4[Ô],X
+-2.3525,hD4[Ô],h85
+-2.35,hD4[Ô],h85
+-2.3475,hD4[Ô],h85
+-2.345,hD4[Ô],h85
+-2.3425,hD4[Ô],h85
+-2.34,hD4[Ô],h85
+-2.3375,hD4[Ô],h85
+-2.335,hD4[Ô],h85
+-2.3325,hD4[Ô],h85
+-2.33,hD4[Ô],h85
+-2.3275,hD4[Ô],h85
+-2.325,hD4[Ô],h85
+-2.3225,hD4[Ô],h85
+-2.32,hD4[Ô],h85
+-2.3175,hD4[Ô],h85
+-2.315,hD4[Ô],h85
+-2.3125,hD4[Ô],h85
+-2.31,hD4[Ô],h85
+-2.3075,hD4[Ô],h85
+-2.305,hD4[Ô],h85
+-2.3025,hD4[Ô],h85
+-2.3,hD4[Ô],h85
+-2.2975,hD4[Ô],h85
+-2.295,hD4[Ô],h85
+-2.2925,hD4[Ô],h85
+-2.29,hD4[Ô],h85
+-2.2875,hD4[Ô],h85
+-2.285,hD4[Ô],h85
+-2.2825,hD4[Ô],h85
+-2.28,hD4[Ô],h85
+-2.2775,hD4[Ô],h85
+-2.275,hD4[Ô],h85
+-2.2725,hD4[Ô],h85
+-2.27,hD4[Ô],h85
+-2.2675,hD4[Ô],h85
+-2.265,hD4[Ô],h85
+-2.2625,hD4[Ô],h85
+-2.26,hD4[Ô],h85
+-2.2575,hD4[Ô],h85
+-2.255,hD4[Ô],h85
+-2.2525,hD4[Ô],h85
+-2.25,hD4[Ô],h85
+-2.2475,hD4[Ô],h85
+-2.245,hD4[Ô],h85
+-2.2425,hD4[Ô],h85
+-2.24,hD4[Ô],h85
+-2.2375,hD4[Ô],h85
+-2.235,hD4[Ô],h85
+-2.2325,hD4[Ô],h85
+-2.23,hD4[Ô],h85
+-2.2275,hD4[Ô],h85
+-2.225,hD4[Ô],h85
+-2.2225,hD4[Ô],h85
+-2.22,hD4[Ô],h85
+-2.2175,hD4[Ô],h85
+-2.215,hD4[Ô],h85
+-2.2125,hD4[Ô],h85
+-2.21,hD4[Ô],h85
+-2.2075,hD4[Ô],h85
+-2.205,hD4[Ô],h85
+-2.2025,hD4[Ô],h85
+-2.2,hD4[Ô],h85
+-2.1975,hD4[Ô],h85
+-2.195,hD4[Ô],h85
+-2.1925,hD4[Ô],h85
+-2.19,hD4[Ô],h85
+-2.1875,hD4[Ô],h85
+-2.185,hD4[Ô],h85
+-2.1825,hD4[Ô],h85
+-2.18,hD4[Ô],h85
+-2.1775,hD4[Ô],h85
+-2.175,hD4[Ô],h85
+-2.1725,hD4[Ô],h85
+-2.17,hD4[Ô],h85
+-2.1675,hD4[Ô],h85
+-2.165,hD4[Ô],h85
+-2.1625,hD4[Ô],h85
+-2.16,hD4[Ô],h85
+-2.1575,hD4[Ô],h85
+-2.155,hD4[Ô],h85
+-2.1525,hD4[Ô],h85
+-2.15,hD4[Ô],h85
+-2.1475,hD4[Ô],h85
+-2.145,hD4[Ô],h85
+-2.1425,hD4[Ô],h85
+-2.14,hD4[Ô],h85
+-2.1375,hD4[Ô],h85
+-2.135,hD4[Ô],h85
+-2.1325,hD4[Ô],h85
+-2.13,hD4[Ô],h85
+-2.1275,hD4[Ô],h85
+-2.125,hD4[Ô],h85
+-2.1225,hD4[Ô],h85
+-2.12,hD4[Ô],h85
+-2.1175,hD4[Ô],h85
+-2.115,hD4[Ô],h85
+-2.1125,hD4[Ô],h85
+-2.11,hD4[Ô],h85
+-2.1075,hD4[Ô],h85
+-2.105,hD4[Ô],h85
+-2.1025,hD4[Ô],h85
+-2.1,hD4[Ô],h85
+-2.0975,hD4[Ô],h85
+-2.095,hD4[Ô],h85
+-2.0925,hD4[Ô],h85
+-2.09,hD4[Ô],h85
+-2.0875,hD4[Ô],h85
+-2.085,hD4[Ô],h85
+-2.0825,hD4[Ô],h85
+-2.08,hD4[Ô],h85
+-2.0775,hD4[Ô],h85
+-2.075,hD4[Ô],h85
+-2.0725,hD4[Ô],h85
+-2.07,hD4[Ô],h85
+-2.0675,hD4[Ô],h85
+-2.065,hD4[Ô],h85
+-2.0625,hD4[Ô],h85
+-2.06,hD4[Ô],h85
+-2.0575,hD4[Ô],h85
+-2.055,hD4[Ô],h85
+-2.0525,hD4[Ô],h85
+-2.05,hD4[Ô],h85
+-2.0475,hD4[Ô],h85
+-2.045,hD4[Ô],h85
+-2.0425,hD4[Ô],h85
+-2.04,hD4[Ô],h85
+-2.0375,hD4[Ô],h85
+-2.035,hD4[Ô],h85
+-2.0325,hD4[Ô],h85
+-2.03,X,h85
+-2.0275,X,h85
+-2.025,X,h85
+-2.0225,X,h85
+-2.02,X,h85
+-2.0175,X,h85
+-2.015,X,h85
+-2.0125,X,h85
+-2.01,X,h85
+-2.0075,X,h85
+-2.005,X,h85
+-2.0025,X,h85
+-2,X,h85
+-1.9975,X,h85
+-1.995,X,h85
+-1.9925,X,h85
+-1.99,X,h85
+-1.9875,X,h85
+-1.985,X,h85
+-1.9825,X,h85
+-1.98,X,h85
+-1.9775,X,h85
+-1.975,X,h85
+-1.9725,X,h85
+-1.97,X,h85
+-1.9675,X,h85
+-1.965,X,h85
+-1.9625,X,h85
+-1.96,X,h85
+-1.9575,h8A Framing Error,h85
+-1.955,h8A Framing Error,h85
+-1.9525,h8A Framing Error,h85
+-1.95,h8A Framing Error,h85
+-1.9475,h8A Framing Error,h85
+-1.945,h8A Framing Error,h85
+-1.9425,h8A Framing Error,h85
+-1.94,h8A Framing Error,h85
+-1.9375,h8A Framing Error,h85
+-1.935,h8A Framing Error,h85
+-1.9325,h8A Framing Error,h85
+-1.93,h8A Framing Error,h85
+-1.9275,h8A Framing Error,h85
+-1.925,h8A Framing Error,h85
+-1.9225,h8A Framing Error,h85
+-1.92,h8A Framing Error,h85
+-1.9175,h8A Framing Error,h85
+-1.915,h8A Framing Error,h85
+-1.9125,h8A Framing Error,h85
+-1.91,h8A Framing Error,h85
+-1.9075,h8A Framing Error,h85
+-1.905,h8A Framing Error,h85
+-1.9025,h8A Framing Error,h85
+-1.9,h8A Framing Error,h85
+-1.8975,h8A Framing Error,h85
+-1.895,h8A Framing Error,h85
+-1.8925,h8A Framing Error,h85
+-1.89,h8A Framing Error,h85
+-1.8875,h8A Framing Error,h85
+-1.885,h8A Framing Error,h85
+-1.8825,h8A Framing Error,h85
+-1.88,h8A Framing Error,h85
+-1.8775,h8A Framing Error,h85
+-1.875,h8A Framing Error,X
+-1.8725,h8A Framing Error,X
+-1.87,h8A Framing Error,X
+-1.8675,h8A Framing Error,X
+-1.865,h8A Framing Error,X
+-1.8625,h8A Framing Error,h5D[]]
+-1.86,h8A Framing Error,h5D[]]
+-1.8575,h8A Framing Error,h5D[]]
+-1.855,h8A Framing Error,h5D[]]
+-1.8525,h8A Framing Error,h5D[]]
+-1.85,h8A Framing Error,h5D[]]
+-1.8475,h8A Framing Error,h5D[]]
+-1.845,h8A Framing Error,h5D[]]
+-1.8425,h8A Framing Error,h5D[]]
+-1.84,h8A Framing Error,h5D[]]
+-1.8375,h8A Framing Error,h5D[]]
+-1.835,h8A Framing Error,h5D[]]
+-1.8325,h8A Framing Error,h5D[]]
+-1.83,h8A Framing Error,h5D[]]
+-1.8275,h8A Framing Error,h5D[]]
+-1.825,h8A Framing Error,h5D[]]
+-1.8225,h8A Framing Error,h5D[]]
+-1.82,h8A Framing Error,h5D[]]
+-1.8175,h8A Framing Error,h5D[]]
+-1.815,h8A Framing Error,h5D[]]
+-1.8125,h8A Framing Error,h5D[]]
+-1.81,h8A Framing Error,h5D[]]
+-1.8075,h8A Framing Error,h5D[]]
+-1.805,h8A Framing Error,h5D[]]
+-1.8025,h8A Framing Error,h5D[]]
+-1.8,h8A Framing Error,h5D[]]
+-1.7975,h8A Framing Error,h5D[]]
+-1.795,h8A Framing Error,h5D[]]
+-1.7925,h8A Framing Error,h5D[]]
+-1.79,h8A Framing Error,h5D[]]
+-1.7875,h8A Framing Error,h5D[]]
+-1.785,h8A Framing Error,h5D[]]
+-1.7825,h8A Framing Error,h5D[]]
+-1.78,h8A Framing Error,h5D[]]
+-1.7775,h8A Framing Error,h5D[]]
+-1.775,h8A Framing Error,h5D[]]
+-1.7725,h8A Framing Error,h5D[]]
+-1.77,h8A Framing Error,h5D[]]
+-1.7675,h8A Framing Error,h5D[]]
+-1.765,h8A Framing Error,h5D[]]
+-1.7625,h8A Framing Error,h5D[]]
+-1.76,h8A Framing Error,h5D[]]
+-1.7575,h8A Framing Error,h5D[]]
+-1.755,h8A Framing Error,h5D[]]
+-1.7525,h8A Framing Error,h5D[]]
+-1.75,h8A Framing Error,h5D[]]
+-1.7475,h8A Framing Error,h5D[]]
+-1.745,h8A Framing Error,h5D[]]
+-1.7425,h8A Framing Error,h5D[]]
+-1.74,h8A Framing Error,h5D[]]
+-1.7375,h8A Framing Error,h5D[]]
+-1.735,h8A Framing Error,h5D[]]
+-1.7325,h8A Framing Error,h5D[]]
+-1.73,h8A Framing Error,h5D[]]
+-1.7275,h8A Framing Error,h5D[]]
+-1.725,h8A Framing Error,h5D[]]
+-1.7225,h8A Framing Error,h5D[]]
+-1.72,h8A Framing Error,h5D[]]
+-1.7175,h8A Framing Error,h5D[]]
+-1.715,h8A Framing Error,h5D[]]
+-1.7125,h8A Framing Error,h5D[]]
+-1.71,h8A Framing Error,h5D[]]
+-1.7075,h8A Framing Error,h5D[]]
+-1.705,h8A Framing Error,h5D[]]
+-1.7025,h8A Framing Error,h5D[]]
+-1.7,h8A Framing Error,h5D[]]
+-1.6975,h8A Framing Error,h5D[]]
+-1.695,h8A Framing Error,h5D[]]
+-1.6925,h8A Framing Error,h5D[]]
+-1.69,h8A Framing Error,h5D[]]
+-1.6875,h8A Framing Error,h5D[]]
+-1.685,h8A Framing Error,h5D[]]
+-1.6825,h8A Framing Error,h5D[]]
+-1.68,h8A Framing Error,h5D[]]
+-1.6775,h8A Framing Error,h5D[]]
+-1.675,h8A Framing Error,h5D[]]
+-1.6725,h8A Framing Error,h5D[]]
+-1.67,h8A Framing Error,h5D[]]
+-1.6675,h8A Framing Error,h5D[]]
+-1.665,h8A Framing Error,h5D[]]
+-1.6625,h8A Framing Error,h5D[]]
+-1.66,h8A Framing Error,h5D[]]
+-1.6575,h8A Framing Error,h5D[]]
+-1.655,h8A Framing Error,h5D[]]
+-1.6525,h8A Framing Error,h5D[]]
+-1.65,h8A Framing Error,h5D[]]
+-1.6475,h8A Framing Error,h5D[]]
+-1.645,h8A Framing Error,h5D[]]
+-1.6425,h8A Framing Error,h5D[]]
+-1.64,h8A Framing Error,h5D[]]
+-1.6375,h8A Framing Error,h5D[]]
+-1.635,h8A Framing Error,h5D[]]
+-1.6325,h8A Framing Error,h5D[]]
+-1.63,h8A Framing Error,h5D[]]
+-1.6275,h8A Framing Error,h5D[]]
+-1.625,h8A Framing Error,h5D[]]
+-1.6225,h8A Framing Error,h5D[]]
+-1.62,h8A Framing Error,h5D[]]
+-1.6175,h8A Framing Error,h5D[]]
+-1.615,h8A Framing Error,h5D[]]
+-1.6125,h8A Framing Error,h5D[]]
+-1.61,h8A Framing Error,h5D[]]
+-1.6075,h8A Framing Error,h5D[]]
+-1.605,h8A Framing Error,h5D[]]
+-1.6025,h8A Framing Error,h5D[]]
+-1.6,h8A Framing Error,h5D[]]
+-1.5975,h8A Framing Error,h5D[]]
+-1.595,h8A Framing Error,h5D[]]
+-1.5925,h8A Framing Error,h5D[]]
+-1.59,h8A Framing Error,h5D[]]
+-1.5875,h8A Framing Error,h5D[]]
+-1.585,h8A Framing Error,h5D[]]
+-1.5825,h8A Framing Error,h5D[]]
+-1.58,h8A Framing Error,h5D[]]
+-1.5775,h8A Framing Error,h5D[]]
+-1.575,h8A Framing Error,h5D[]]
+-1.5725,h8A Framing Error,h5D[]]
+-1.57,h8A Framing Error,h5D[]]
+-1.5675,h8A Framing Error,h5D[]]
+-1.565,h8A Framing Error,h5D[]]
+-1.5625,h8A Framing Error,h5D[]]
+-1.56,h8A Framing Error,h5D[]]
+-1.5575,h8A Framing Error,h5D[]]
+-1.555,h8A Framing Error,h5D[]]
+-1.5525,h8A Framing Error,h5D[]]
+-1.55,h8A Framing Error,h5D[]]
+-1.5475,h8A Framing Error,h5D[]]
+-1.545,h8A Framing Error,h5D[]]
+-1.5425,h8A Framing Error,h5D[]]
+-1.54,h8A Framing Error,h5D[]]
+-1.5375,h8A Framing Error,h5D[]]
+-1.535,h8A Framing Error,h5D[]]
+-1.5325,h8A Framing Error,h5D[]]
+-1.53,h8A Framing Error,h5D[]]
+-1.5275,h8A Framing Error,h5D[]]
+-1.525,h8A Framing Error,h5D[]]
+-1.5225,h8A Framing Error,h5D[]]
+-1.52,h8A Framing Error,h5D[]]
+-1.5175,h8A Framing Error,h5D[]]
+-1.515,h8A Framing Error,h5D[]]
+-1.5125,h8A Framing Error,h5D[]]
+-1.51,h8A Framing Error,h5D[]]
+-1.5075,h8A Framing Error,h5D[]]
+-1.505,h8A Framing Error,h5D[]]
+-1.5025,h8A Framing Error,h5D[]]
+-1.5,h8A Framing Error,h5D[]]
+-1.4975,h8A Framing Error,h5D[]]
+-1.495,h8A Framing Error,h5D[]]
+-1.4925,h8A Framing Error,h5D[]]
+-1.49,h8A Framing Error,h5D[]]
+-1.4875,h8A Framing Error,h5D[]]
+-1.485,h8A Framing Error,h5D[]]
+-1.4825,h8A Framing Error,h5D[]]
+-1.48,X,h5D[]]
+-1.4775,X,h5D[]]
+-1.475,X,h5D[]]
+-1.4725,X,h5D[]]
+-1.47,X,h5D[]]
+-1.4675,X,h5D[]]
+-1.465,X,h5D[]]
+-1.4625,X,h5D[]]
+-1.46,X,h5D[]]
+-1.4575,X,h5D[]]
+-1.455,X,h5D[]]
+-1.4525,X,h5D[]]
+-1.45,X,h5D[]]
+-1.4475,X,h5D[]]
+-1.445,X,h5D[]]
+-1.4425,X,h5D[]]
+-1.44,X,h5D[]]
+-1.4375,X,h5D[]]
+-1.435,X,h5D[]]
+-1.4325,X,h5D[]]
+-1.43,X,h5D[]]
+-1.4275,X,h5D[]]
+-1.425,X,h5D[]]
+-1.4225,X,h5D[]]
+-1.42,X,h5D[]]
+-1.4175,X,h5D[]]
+-1.415,X,h5D[]]
+-1.4125,X,h5D[]]
+-1.41,X,h5D[]]
+-1.4075,h15[NAK] Framing Error,h5D[]]
+-1.405,h15[NAK] Framing Error,h5D[]]
+-1.4025,h15[NAK] Framing Error,h5D[]]
+-1.4,h15[NAK] Framing Error,h5D[]]
+-1.3975,h15[NAK] Framing Error,h5D[]]
+-1.395,h15[NAK] Framing Error,h5D[]]
+-1.3925,h15[NAK] Framing Error,h5D[]]
+-1.39,h15[NAK] Framing Error,h5D[]]
+-1.3875,h15[NAK] Framing Error,h5D[]]
+-1.385,h15[NAK] Framing Error,X
+-1.3825,h15[NAK] Framing Error,X
+-1.38,h15[NAK] Framing Error,X
+-1.3775,h15[NAK] Framing Error,X
+-1.375,h15[NAK] Framing Error,X
+-1.3725,h15[NAK] Framing Error,X
+-1.37,h15[NAK] Framing Error,X
+-1.3675,h15[NAK] Framing Error,X
+-1.365,h15[NAK] Framing Error,X
+-1.3625,h15[NAK] Framing Error,hF5[õ]
+-1.36,h15[NAK] Framing Error,hF5[õ]
+-1.3575,h15[NAK] Framing Error,hF5[õ]
+-1.355,h15[NAK] Framing Error,hF5[õ]
+-1.3525,h15[NAK] Framing Error,hF5[õ]
+-1.35,h15[NAK] Framing Error,hF5[õ]
+-1.3475,h15[NAK] Framing Error,hF5[õ]
+-1.345,h15[NAK] Framing Error,hF5[õ]
+-1.3425,h15[NAK] Framing Error,hF5[õ]
+-1.34,h15[NAK] Framing Error,hF5[õ]
+-1.3375,h15[NAK] Framing Error,hF5[õ]
+-1.335,h15[NAK] Framing Error,hF5[õ]
+-1.3325,h15[NAK] Framing Error,hF5[õ]
+-1.33,h15[NAK] Framing Error,hF5[õ]
+-1.3275,h15[NAK] Framing Error,hF5[õ]
+-1.325,h15[NAK] Framing Error,hF5[õ]
+-1.3225,h15[NAK] Framing Error,hF5[õ]
+-1.32,h15[NAK] Framing Error,hF5[õ]
+-1.3175,h15[NAK] Framing Error,hF5[õ]
+-1.315,h15[NAK] Framing Error,hF5[õ]
+-1.3125,h15[NAK] Framing Error,hF5[õ]
+-1.31,h15[NAK] Framing Error,hF5[õ]
+-1.3075,h15[NAK] Framing Error,hF5[õ]
+-1.305,h15[NAK] Framing Error,hF5[õ]
+-1.3025,h15[NAK] Framing Error,hF5[õ]
+-1.3,h15[NAK] Framing Error,hF5[õ]
+-1.2975,h15[NAK] Framing Error,hF5[õ]
+-1.295,h15[NAK] Framing Error,hF5[õ]
+-1.2925,h15[NAK] Framing Error,hF5[õ]
+-1.29,h15[NAK] Framing Error,hF5[õ]
+-1.2875,h15[NAK] Framing Error,hF5[õ]
+-1.285,h15[NAK] Framing Error,hF5[õ]
+-1.2825,h15[NAK] Framing Error,hF5[õ]
+-1.28,h15[NAK] Framing Error,hF5[õ]
+-1.2775,h15[NAK] Framing Error,hF5[õ]
+-1.275,h15[NAK] Framing Error,hF5[õ]
+-1.2725,h15[NAK] Framing Error,hF5[õ]
+-1.27,h15[NAK] Framing Error,hF5[õ]
+-1.2675,h15[NAK] Framing Error,hF5[õ]
+-1.265,h15[NAK] Framing Error,hF5[õ]
+-1.2625,h15[NAK] Framing Error,hF5[õ]
+-1.26,h15[NAK] Framing Error,hF5[õ]
+-1.2575,h15[NAK] Framing Error,hF5[õ]
+-1.255,h15[NAK] Framing Error,hF5[õ]
+-1.2525,h15[NAK] Framing Error,hF5[õ]
+-1.25,h15[NAK] Framing Error,hF5[õ]
+-1.2475,h15[NAK] Framing Error,hF5[õ]
+-1.245,h15[NAK] Framing Error,hF5[õ]
+-1.2425,h15[NAK] Framing Error,hF5[õ]
+-1.24,h15[NAK] Framing Error,hF5[õ]
+-1.2375,h15[NAK] Framing Error,hF5[õ]
+-1.235,h15[NAK] Framing Error,hF5[õ]
+-1.2325,h15[NAK] Framing Error,hF5[õ]
+-1.23,h15[NAK] Framing Error,hF5[õ]
+-1.2275,h15[NAK] Framing Error,hF5[õ]
+-1.225,h15[NAK] Framing Error,hF5[õ]
+-1.2225,h15[NAK] Framing Error,hF5[õ]
+-1.22,h15[NAK] Framing Error,hF5[õ]
+-1.2175,h15[NAK] Framing Error,hF5[õ]
+-1.215,h15[NAK] Framing Error,hF5[õ]
+-1.2125,h15[NAK] Framing Error,hF5[õ]
+-1.21,h15[NAK] Framing Error,hF5[õ]
+-1.2075,h15[NAK] Framing Error,hF5[õ]
+-1.205,h15[NAK] Framing Error,hF5[õ]
+-1.2025,h15[NAK] Framing Error,hF5[õ]
+-1.2,h15[NAK] Framing Error,hF5[õ]
+-1.1975,h15[NAK] Framing Error,hF5[õ]
+-1.195,h15[NAK] Framing Error,hF5[õ]
+-1.1925,h15[NAK] Framing Error,hF5[õ]
+-1.19,h15[NAK] Framing Error,hF5[õ]
+-1.1875,h15[NAK] Framing Error,hF5[õ]
+-1.185,h15[NAK] Framing Error,hF5[õ]
+-1.1825,h15[NAK] Framing Error,hF5[õ]
+-1.18,h15[NAK] Framing Error,hF5[õ]
+-1.1775,h15[NAK] Framing Error,hF5[õ]
+-1.175,h15[NAK] Framing Error,hF5[õ]
+-1.1725,h15[NAK] Framing Error,hF5[õ]
+-1.17,h15[NAK] Framing Error,hF5[õ]
+-1.1675,h15[NAK] Framing Error,hF5[õ]
+-1.165,h15[NAK] Framing Error,hF5[õ]
+-1.1625,h15[NAK] Framing Error,hF5[õ]
+-1.16,h15[NAK] Framing Error,hF5[õ]
+-1.1575,h15[NAK] Framing Error,hF5[õ]
+-1.155,h15[NAK] Framing Error,hF5[õ]
+-1.1525,h15[NAK] Framing Error,hF5[õ]
+-1.15,h15[NAK] Framing Error,hF5[õ]
+-1.1475,h15[NAK] Framing Error,hF5[õ]
+-1.145,h15[NAK] Framing Error,hF5[õ]
+-1.1425,h15[NAK] Framing Error,hF5[õ]
+-1.14,h15[NAK] Framing Error,hF5[õ]
+-1.1375,h15[NAK] Framing Error,hF5[õ]
+-1.135,h15[NAK] Framing Error,hF5[õ]
+-1.1325,h15[NAK] Framing Error,hF5[õ]
+-1.13,h15[NAK] Framing Error,hF5[õ]
+-1.1275,h15[NAK] Framing Error,hF5[õ]
+-1.125,h15[NAK] Framing Error,hF5[õ]
+-1.1225,h15[NAK] Framing Error,hF5[õ]
+-1.12,h15[NAK] Framing Error,hF5[õ]
+-1.1175,h15[NAK] Framing Error,hF5[õ]
+-1.115,h15[NAK] Framing Error,hF5[õ]
+-1.1125,h15[NAK] Framing Error,hF5[õ]
+-1.11,h15[NAK] Framing Error,hF5[õ]
+-1.1075,h15[NAK] Framing Error,hF5[õ]
+-1.105,h15[NAK] Framing Error,hF5[õ]
+-1.1025,h15[NAK] Framing Error,hF5[õ]
+-1.1,h15[NAK] Framing Error,hF5[õ]
+-1.0975,h15[NAK] Framing Error,hF5[õ]
+-1.095,h15[NAK] Framing Error,hF5[õ]
+-1.0925,h15[NAK] Framing Error,hF5[õ]
+-1.09,h15[NAK] Framing Error,hF5[õ]
+-1.0875,h15[NAK] Framing Error,hF5[õ]
+-1.085,h15[NAK] Framing Error,hF5[õ]
+-1.0825,h15[NAK] Framing Error,hF5[õ]
+-1.08,h15[NAK] Framing Error,hF5[õ]
+-1.0775,h15[NAK] Framing Error,hF5[õ]
+-1.075,h15[NAK] Framing Error,hF5[õ]
+-1.0725,h15[NAK] Framing Error,hF5[õ]
+-1.07,h15[NAK] Framing Error,hF5[õ]
+-1.0675,h15[NAK] Framing Error,hF5[õ]
+-1.065,h15[NAK] Framing Error,hF5[õ]
+-1.0625,h15[NAK] Framing Error,hF5[õ]
+-1.06,h15[NAK] Framing Error,hF5[õ]
+-1.0575,h15[NAK] Framing Error,hF5[õ]
+-1.055,h15[NAK] Framing Error,hF5[õ]
+-1.0525,h15[NAK] Framing Error,hF5[õ]
+-1.05,h15[NAK] Framing Error,hF5[õ]
+-1.0475,h15[NAK] Framing Error,hF5[õ]
+-1.045,h15[NAK] Framing Error,hF5[õ]
+-1.0425,h15[NAK] Framing Error,hF5[õ]
+-1.04,h15[NAK] Framing Error,hF5[õ]
+-1.0375,h15[NAK] Framing Error,hF5[õ]
+-1.035,h15[NAK] Framing Error,hF5[õ]
+-1.0325,h15[NAK] Framing Error,hF5[õ]
+-1.03,h15[NAK] Framing Error,hF5[õ]
+-1.0275,h15[NAK] Framing Error,hF5[õ]
+-1.025,h15[NAK] Framing Error,hF5[õ]
+-1.0225,h15[NAK] Framing Error,hF5[õ]
+-1.02,h15[NAK] Framing Error,hF5[õ]
+-1.0175,h15[NAK] Framing Error,hF5[õ]
+-1.015,h15[NAK] Framing Error,hF5[õ]
+-1.0125,h15[NAK] Framing Error,hF5[õ]
+-1.01,h15[NAK] Framing Error,hF5[õ]
+-1.0075,h15[NAK] Framing Error,hF5[õ]
+-1.005,h15[NAK] Framing Error,hF5[õ]
+-1.0025,h15[NAK] Framing Error,hF5[õ]
+-1,h15[NAK] Framing Error,hF5[õ]
+-0.9975000000000001,h15[NAK] Framing Error,hF5[õ]
+-0.995,h15[NAK] Framing Error,hF5[õ]
+-0.9925,h15[NAK] Framing Error,hF5[õ]
+-0.99,h15[NAK] Framing Error,hF5[õ]
+-0.9875,h15[NAK] Framing Error,hF5[õ]
+-0.985,h15[NAK] Framing Error,hF5[õ]
+-0.9825,h15[NAK] Framing Error,hF5[õ]
+-0.98,h15[NAK] Framing Error,hF5[õ]
+-0.9775,h15[NAK] Framing Error,hF5[õ]
+-0.975,h15[NAK] Framing Error,hF5[õ]
+-0.9725,h15[NAK] Framing Error,hF5[õ]
+-0.97,h15[NAK] Framing Error,hF5[õ]
+-0.9675,h15[NAK] Framing Error,hF5[õ]
+-0.965,h15[NAK] Framing Error,hF5[õ]
+-0.9625,h15[NAK] Framing Error,hF5[õ]
+-0.96,h15[NAK] Framing Error,hF5[õ]
+-0.9575,h15[NAK] Framing Error,hF5[õ]
+-0.955,h15[NAK] Framing Error,hF5[õ]
+-0.9525,h15[NAK] Framing Error,hF5[õ]
+-0.95,h15[NAK] Framing Error,hF5[õ]
+-0.9475,h15[NAK] Framing Error,hF5[õ]
+-0.945,h15[NAK] Framing Error,hF5[õ]
+-0.9425,h15[NAK] Framing Error,hF5[õ]
+-0.9399999999999999,h15[NAK] Framing Error,hF5[õ]
+-0.9375,h15[NAK] Framing Error,hF5[õ]
+-0.9350000000000001,h15[NAK] Framing Error,hF5[õ]
+-0.9325,h15[NAK] Framing Error,hF5[õ]
+-0.93,X,hF5[õ]
+-0.9275,X,hF5[õ]
+-0.925,X,hF5[õ]
+-0.9225,X,hF5[õ]
+-0.92,X,hF5[õ]
+-0.9175,X,hF5[õ]
+-0.915,X,hF5[õ]
+-0.9125,X,hF5[õ]
+-0.91,X,hF5[õ]
+-0.9075,X,hF5[õ]
+-0.905,X,hF5[õ]
+-0.9025,X,hF5[õ]
+-0.9,X,hF5[õ]
+-0.8975,X,hF5[õ]
+-0.895,X,hF5[õ]
+-0.8925,X,hF5[õ]
+-0.89,X,hF5[õ]
+-0.8875,X,hF5[õ]
+-0.885,X,X
+-0.8825,X,X
+-0.88,X,X
+-0.8774999999999999,X,X
+-0.875,X,X
+-0.8725000000000001,X,X
+-0.87,X,X
+-0.8675,X,X
+-0.865,X,X
+-0.8625,X,h01[SOH] Framing Error
+-0.86,X,h01[SOH] Framing Error
+-0.8575,X,h01[SOH] Framing Error
+-0.855,X,h01[SOH] Framing Error
+-0.8525,X,h01[SOH] Framing Error
+-0.85,X,h01[SOH] Framing Error
+-0.8475,X,h01[SOH] Framing Error
+-0.845,X,h01[SOH] Framing Error
+-0.8425,X,h01[SOH] Framing Error
+-0.84,X,h01[SOH] Framing Error
+-0.8375,X,h01[SOH] Framing Error
+-0.835,X,h01[SOH] Framing Error
+-0.8325,X,h01[SOH] Framing Error
+-0.83,X,h01[SOH] Framing Error
+-0.8275,X,h01[SOH] Framing Error
+-0.825,X,h01[SOH] Framing Error
+-0.8225,X,h01[SOH] Framing Error
+-0.82,X,h01[SOH] Framing Error
+-0.8175,X,h01[SOH] Framing Error
+-0.8149999999999999,X,h01[SOH] Framing Error
+-0.8125,X,h01[SOH] Framing Error
+-0.8100000000000001,X,h01[SOH] Framing Error
+-0.8075,X,h01[SOH] Framing Error
+-0.805,hFF[ÿ],h01[SOH] Framing Error
+-0.8025,hFF[ÿ],h01[SOH] Framing Error
+-0.8,hFF[ÿ],h01[SOH] Framing Error
+-0.7975,hFF[ÿ],h01[SOH] Framing Error
+-0.795,hFF[ÿ],h01[SOH] Framing Error
+-0.7925,hFF[ÿ],h01[SOH] Framing Error
+-0.79,hFF[ÿ],h01[SOH] Framing Error
+-0.7875,hFF[ÿ],h01[SOH] Framing Error
+-0.785,hFF[ÿ],h01[SOH] Framing Error
+-0.7825,hFF[ÿ],h01[SOH] Framing Error
+-0.78,hFF[ÿ],h01[SOH] Framing Error
+-0.7775,hFF[ÿ],h01[SOH] Framing Error
+-0.775,hFF[ÿ],h01[SOH] Framing Error
+-0.7725,hFF[ÿ],h01[SOH] Framing Error
+-0.77,hFF[ÿ],h01[SOH] Framing Error
+-0.7675,hFF[ÿ],h01[SOH] Framing Error
+-0.765,hFF[ÿ],h01[SOH] Framing Error
+-0.7625,hFF[ÿ],h01[SOH] Framing Error
+-0.76,hFF[ÿ],h01[SOH] Framing Error
+-0.7575,hFF[ÿ],h01[SOH] Framing Error
+-0.755,hFF[ÿ],h01[SOH] Framing Error
+-0.7524999999999999,hFF[ÿ],h01[SOH] Framing Error
+-0.75,hFF[ÿ],h01[SOH] Framing Error
+-0.7475000000000001,hFF[ÿ],h01[SOH] Framing Error
+-0.745,hFF[ÿ],h01[SOH] Framing Error
+-0.7425,hFF[ÿ],h01[SOH] Framing Error
+-0.74,hFF[ÿ],h01[SOH] Framing Error
+-0.7375,hFF[ÿ],h01[SOH] Framing Error
+-0.735,hFF[ÿ],h01[SOH] Framing Error
+-0.7325,hFF[ÿ],h01[SOH] Framing Error
+-0.73,hFF[ÿ],h01[SOH] Framing Error
+-0.7275,hFF[ÿ],h01[SOH] Framing Error
+-0.725,hFF[ÿ],h01[SOH] Framing Error
+-0.7225,hFF[ÿ],h01[SOH] Framing Error
+-0.72,hFF[ÿ],h01[SOH] Framing Error
+-0.7175,hFF[ÿ],h01[SOH] Framing Error
+-0.715,hFF[ÿ],h01[SOH] Framing Error
+-0.7125,hFF[ÿ],h01[SOH] Framing Error
+-0.71,hFF[ÿ],h01[SOH] Framing Error
+-0.7075,hFF[ÿ],h01[SOH] Framing Error
+-0.705,hFF[ÿ],h01[SOH] Framing Error
+-0.7025,hFF[ÿ],h01[SOH] Framing Error
+-0.7,hFF[ÿ],h01[SOH] Framing Error
+-0.6975,hFF[ÿ],h01[SOH] Framing Error
+-0.695,hFF[ÿ],h01[SOH] Framing Error
+-0.6925,hFF[ÿ],h01[SOH] Framing Error
+-0.6899999999999999,hFF[ÿ],h01[SOH] Framing Error
+-0.6875,hFF[ÿ],h01[SOH] Framing Error
+-0.6850000000000001,hFF[ÿ],h01[SOH] Framing Error
+-0.6825,hFF[ÿ],h01[SOH] Framing Error
+-0.68,hFF[ÿ],h01[SOH] Framing Error
+-0.6775,hFF[ÿ],h01[SOH] Framing Error
+-0.675,hFF[ÿ],h01[SOH] Framing Error
+-0.6725,hFF[ÿ],h01[SOH] Framing Error
+-0.67,hFF[ÿ],h01[SOH] Framing Error
+-0.6675,hFF[ÿ],h01[SOH] Framing Error
+-0.665,hFF[ÿ],h01[SOH] Framing Error
+-0.6625,hFF[ÿ],h01[SOH] Framing Error
+-0.66,hFF[ÿ],h01[SOH] Framing Error
+-0.6575,hFF[ÿ],h01[SOH] Framing Error
+-0.655,hFF[ÿ],h01[SOH] Framing Error
+-0.6525,hFF[ÿ],h01[SOH] Framing Error
+-0.65,hFF[ÿ],h01[SOH] Framing Error
+-0.6475,hFF[ÿ],h01[SOH] Framing Error
+-0.645,hFF[ÿ],h01[SOH] Framing Error
+-0.6425,hFF[ÿ],h01[SOH] Framing Error
+-0.64,hFF[ÿ],h01[SOH] Framing Error
+-0.6375,hFF[ÿ],h01[SOH] Framing Error
+-0.635,hFF[ÿ],h01[SOH] Framing Error
+-0.6325,hFF[ÿ],h01[SOH] Framing Error
+-0.63,hFF[ÿ],h01[SOH] Framing Error
+-0.6274999999999999,hFF[ÿ],h01[SOH] Framing Error
+-0.625,hFF[ÿ],h01[SOH] Framing Error
+-0.6225000000000001,hFF[ÿ],h01[SOH] Framing Error
+-0.62,hFF[ÿ],h01[SOH] Framing Error
+-0.6175,hFF[ÿ],h01[SOH] Framing Error
+-0.615,hFF[ÿ],h01[SOH] Framing Error
+-0.6125,hFF[ÿ],h01[SOH] Framing Error
+-0.61,hFF[ÿ],h01[SOH] Framing Error
+-0.6075,hFF[ÿ],h01[SOH] Framing Error
+-0.605,hFF[ÿ],h01[SOH] Framing Error
+-0.6025,hFF[ÿ],h01[SOH] Framing Error
+-0.6,hFF[ÿ],h01[SOH] Framing Error
+-0.5975,hFF[ÿ],h01[SOH] Framing Error
+-0.595,hFF[ÿ],h01[SOH] Framing Error
+-0.5925,hFF[ÿ],h01[SOH] Framing Error
+-0.59,hFF[ÿ],h01[SOH] Framing Error
+-0.5875,hFF[ÿ],h01[SOH] Framing Error
+-0.585,hFF[ÿ],h01[SOH] Framing Error
+-0.5825,hFF[ÿ],h01[SOH] Framing Error
+-0.58,hFF[ÿ],h01[SOH] Framing Error
+-0.5775,hFF[ÿ],h01[SOH] Framing Error
+-0.575,hFF[ÿ],h01[SOH] Framing Error
+-0.5725,hFF[ÿ],h01[SOH] Framing Error
+-0.57,hFF[ÿ],h01[SOH] Framing Error
+-0.5675,hFF[ÿ],h01[SOH] Framing Error
+-0.5649999999999999,hFF[ÿ],h01[SOH] Framing Error
+-0.5625,hFF[ÿ],h01[SOH] Framing Error
+-0.5600000000000001,hFF[ÿ],h01[SOH] Framing Error
+-0.5575,hFF[ÿ],h01[SOH] Framing Error
+-0.555,hFF[ÿ],h01[SOH] Framing Error
+-0.5525,hFF[ÿ],h01[SOH] Framing Error
+-0.55,hFF[ÿ],h01[SOH] Framing Error
+-0.5475,hFF[ÿ],h01[SOH] Framing Error
+-0.545,hFF[ÿ],h01[SOH] Framing Error
+-0.5425,hFF[ÿ],h01[SOH] Framing Error
+-0.54,hFF[ÿ],h01[SOH] Framing Error
+-0.5375,hFF[ÿ],h01[SOH] Framing Error
+-0.535,hFF[ÿ],h01[SOH] Framing Error
+-0.5325,hFF[ÿ],h01[SOH] Framing Error
+-0.53,hFF[ÿ],h01[SOH] Framing Error
+-0.5275,hFF[ÿ],h01[SOH] Framing Error
+-0.525,hFF[ÿ],h01[SOH] Framing Error
+-0.5225,hFF[ÿ],h01[SOH] Framing Error
+-0.52,hFF[ÿ],h01[SOH] Framing Error
+-0.5175,hFF[ÿ],h01[SOH] Framing Error
+-0.515,hFF[ÿ],h01[SOH] Framing Error
+-0.5125,hFF[ÿ],h01[SOH] Framing Error
+-0.51,hFF[ÿ],h01[SOH] Framing Error
+-0.5075,hFF[ÿ],h01[SOH] Framing Error
+-0.505,hFF[ÿ],h01[SOH] Framing Error
+-0.5024999999999999,hFF[ÿ],h01[SOH] Framing Error
+-0.5,hFF[ÿ],h01[SOH] Framing Error
+-0.4975,hFF[ÿ],h01[SOH] Framing Error
+-0.495,hFF[ÿ],h01[SOH] Framing Error
+-0.4925,hFF[ÿ],h01[SOH] Framing Error
+-0.49,hFF[ÿ],h01[SOH] Framing Error
+-0.4875,hFF[ÿ],h01[SOH] Framing Error
+-0.485,hFF[ÿ],h01[SOH] Framing Error
+-0.4825,hFF[ÿ],h01[SOH] Framing Error
+-0.48,hFF[ÿ],h01[SOH] Framing Error
+-0.4775,hFF[ÿ],h01[SOH] Framing Error
+-0.475,hFF[ÿ],h01[SOH] Framing Error
+-0.4725,hFF[ÿ],h01[SOH] Framing Error
+-0.47,hFF[ÿ],h01[SOH] Framing Error
+-0.4675,hFF[ÿ],h01[SOH] Framing Error
+-0.465,hFF[ÿ],h01[SOH] Framing Error
+-0.4625,hFF[ÿ],h01[SOH] Framing Error
+-0.46,hFF[ÿ],h01[SOH] Framing Error
+-0.4575,hFF[ÿ],h01[SOH] Framing Error
+-0.455,hFF[ÿ],h01[SOH] Framing Error
+-0.4525,hFF[ÿ],h01[SOH] Framing Error
+-0.45,hFF[ÿ],h01[SOH] Framing Error
+-0.4475,hFF[ÿ],h01[SOH] Framing Error
+-0.445,hFF[ÿ],h01[SOH] Framing Error
+-0.4425,hFF[ÿ],h01[SOH] Framing Error
+-0.44,hFF[ÿ],h01[SOH] Framing Error
+-0.4375,hFF[ÿ],h01[SOH] Framing Error
+-0.435,hFF[ÿ],h01[SOH] Framing Error
+-0.4325,hFF[ÿ],h01[SOH] Framing Error
+-0.43,hFF[ÿ],h01[SOH] Framing Error
+-0.4275,hFF[ÿ],h01[SOH] Framing Error
+-0.425,hFF[ÿ],h01[SOH] Framing Error
+-0.4225,hFF[ÿ],h01[SOH] Framing Error
+-0.42,hFF[ÿ],h01[SOH] Framing Error
+-0.4175,hFF[ÿ],h01[SOH] Framing Error
+-0.415,hFF[ÿ],h01[SOH] Framing Error
+-0.4125,hFF[ÿ],h01[SOH] Framing Error
+-0.41,hFF[ÿ],h01[SOH] Framing Error
+-0.4075,hFF[ÿ],h01[SOH] Framing Error
+-0.405,hFF[ÿ],h01[SOH] Framing Error
+-0.4025,hFF[ÿ],h01[SOH] Framing Error
+-0.4,hFF[ÿ],h01[SOH] Framing Error
+-0.3975,hFF[ÿ],h01[SOH] Framing Error
+-0.395,hFF[ÿ],h01[SOH] Framing Error
+-0.3925,hFF[ÿ],h01[SOH] Framing Error
+-0.39,hFF[ÿ],h01[SOH] Framing Error
+-0.3875,hFF[ÿ],h01[SOH] Framing Error
+-0.385,hFF[ÿ],X
+-0.3825,hFF[ÿ],X
+-0.38,hFF[ÿ],X
+-0.3775,hFF[ÿ],X
+-0.375,hFF[ÿ],X
+-0.3725,hFF[ÿ],X
+-0.37,hFF[ÿ],X
+-0.3675,hFF[ÿ],X
+-0.365,hFF[ÿ],X
+-0.3625,hFF[ÿ],X
+-0.36,hFF[ÿ],X
+-0.3575,hFF[ÿ],X
+-0.355,hFF[ÿ],X
+-0.3525,hFF[ÿ],X
+-0.35,hFF[ÿ],X
+-0.3475,hFF[ÿ],X
+-0.345,hFF[ÿ],X
+-0.3425,hFF[ÿ],X
+-0.34,hFF[ÿ],X
+-0.3375,hFF[ÿ],X
+-0.335,hFF[ÿ],X
+-0.3325,hFF[ÿ],X
+-0.33,hFF[ÿ],X
+-0.3275,X,X
+-0.325,X,X
+-0.3225,X,X
+-0.32,X,X
+-0.3175,X,X
+-0.315,X,X
+-0.3125,X,X
+-0.31,X,X
+-0.3075,X,X
+-0.305,X,X
+-0.3025,X,X
+-0.3,X,X
+-0.2975,X,X
+-0.295,X,X
+-0.2925,X,X
+-0.29,X,X
+-0.2875,X,X
+-0.285,X,X
+-0.2825,X,X
+-0.28,X,X
+-0.2775,X,X
+-0.275,X,X
+-0.2725,X,X
+-0.27,X,X
+-0.2675,X,X
+-0.265,X,X
+-0.2625,X,X
+-0.26,X,X
+-0.2575,X,X
+-0.255,X,X
+-0.2525,X,X
+-0.25,X,X
+-0.2475,X,X
+-0.245,X,X
+-0.2425,X,X
+-0.24,X,X
+-0.2375,X,X
+-0.235,X,X
+-0.2325,X,X
+-0.23,X,X
+-0.2275,X,X
+-0.225,X,X
+-0.2225,X,X
+-0.22,X,X
+-0.2175,X,X
+-0.215,X,X
+-0.2125,X,X
+-0.21,X,X
+-0.2075,X,X
+-0.205,h42[B],X
+-0.2025,h42[B],X
+-0.2,h42[B],X
+-0.1975,h42[B],X
+-0.195,h42[B],X
+-0.1925,h42[B],X
+-0.19,h42[B],X
+-0.1875,h42[B],X
+-0.185,h42[B],X
+-0.1825,h42[B],X
+-0.18,h42[B],X
+-0.1775,h42[B],X
+-0.175,h42[B],X
+-0.1725,h42[B],X
+-0.17,h42[B],X
+-0.1675,h42[B],X
+-0.165,h42[B],X
+-0.1625,h42[B],X
+-0.16,h42[B],X
+-0.1575,h42[B],X
+-0.155,h42[B],X
+-0.1525,h42[B],X
+-0.15,h42[B],X
+-0.1475,h42[B],X
+-0.145,h42[B],X
+-0.1425,h42[B],X
+-0.14,h42[B],X
+-0.1375,h42[B],X
+-0.135,h42[B],X
+-0.1325,h42[B],X
+-0.13,h42[B],X
+-0.1275,h42[B],X
+-0.125,h42[B],X
+-0.1225,h42[B],X
+-0.12,h42[B],X
+-0.1175,h42[B],X
+-0.115,h42[B],X
+-0.1125,h42[B],X
+-0.11,h42[B],X
+-0.1075,h42[B],X
+-0.105,h42[B],X
+-0.1025,h42[B],hAF[¯] Framing Error
+-0.1,h42[B],hAF[¯] Framing Error
+-0.0975,h42[B],hAF[¯] Framing Error
+-0.095,h42[B],hAF[¯] Framing Error
+-0.0925,h42[B],hAF[¯] Framing Error
+-0.09,h42[B],hAF[¯] Framing Error
+-0.08749999999999999,h42[B],hAF[¯] Framing Error
+-0.08500000000000001,h42[B],hAF[¯] Framing Error
+-0.0825,h42[B],hAF[¯] Framing Error
+-0.08,h42[B],hAF[¯] Framing Error
+-0.0775,h42[B],hAF[¯] Framing Error
+-0.075,h42[B],hAF[¯] Framing Error
+-0.0725,h42[B],hAF[¯] Framing Error
+-0.07000000000000001,h42[B],hAF[¯] Framing Error
+-0.0675,h42[B],hAF[¯] Framing Error
+-0.065,h42[B],hAF[¯] Framing Error
+-0.0625,h42[B],hAF[¯] Framing Error
+-0.06,h42[B],hAF[¯] Framing Error
+-0.0575,h42[B],hAF[¯] Framing Error
+-0.055,h42[B],hAF[¯] Framing Error
+-0.0525,h42[B],hAF[¯] Framing Error
+-0.05,h42[B],hAF[¯] Framing Error
+-0.0475,h42[B],hAF[¯] Framing Error
+-0.045,h42[B],hAF[¯] Framing Error
+-0.0425,h42[B],hAF[¯] Framing Error
+-0.04,h42[B],hAF[¯] Framing Error
+-0.0375,h42[B],hAF[¯] Framing Error
+-0.035,h42[B],hAF[¯] Framing Error
+-0.0325,h42[B],hAF[¯] Framing Error
+-0.03,h42[B],hAF[¯] Framing Error
+-0.0275,h42[B],hAF[¯] Framing Error
+-0.025,h42[B],hAF[¯] Framing Error
+-0.0225,h42[B],hAF[¯] Framing Error
+-0.02,h42[B],hAF[¯] Framing Error
+-0.0175,h42[B],hAF[¯] Framing Error
+-0.015,h42[B],hAF[¯] Framing Error
+-0.0125,h42[B],hAF[¯] Framing Error
+-0.01,h42[B],hAF[¯] Framing Error
+-0.0075,h42[B],hAF[¯] Framing Error
+-0.005,h42[B],hAF[¯] Framing Error
+-0.0025,h42[B],hAF[¯] Framing Error
+0,h42[B],hAF[¯] Framing Error
+0.0025,h42[B],hAF[¯] Framing Error
+0.005,h42[B],hAF[¯] Framing Error
+0.0075,h42[B],hAF[¯] Framing Error
+0.01,h42[B],hAF[¯] Framing Error
+0.0125,h42[B],hAF[¯] Framing Error
+0.015,h42[B],hAF[¯] Framing Error
+0.0175,h42[B],hAF[¯] Framing Error
+0.02,h42[B],hAF[¯] Framing Error
+0.0225,h42[B],hAF[¯] Framing Error
+0.025,h42[B],hAF[¯] Framing Error
+0.0275,h42[B],hAF[¯] Framing Error
+0.03,h42[B],hAF[¯] Framing Error
+0.0325,h42[B],hAF[¯] Framing Error
+0.035,h42[B],hAF[¯] Framing Error
+0.0375,h42[B],hAF[¯] Framing Error
+0.04,h42[B],hAF[¯] Framing Error
+0.0425,h42[B],hAF[¯] Framing Error
+0.045,h42[B],hAF[¯] Framing Error
+0.0475,h42[B],hAF[¯] Framing Error
+0.05,h42[B],hAF[¯] Framing Error
+0.0525,h42[B],hAF[¯] Framing Error
+0.055,h42[B],hAF[¯] Framing Error
+0.0575,h42[B],hAF[¯] Framing Error
+0.06,h42[B],hAF[¯] Framing Error
+0.0625,h42[B],hAF[¯] Framing Error
+0.065,h42[B],hAF[¯] Framing Error
+0.0675,h42[B],hAF[¯] Framing Error
+0.07000000000000001,h42[B],hAF[¯] Framing Error
+0.0725,h42[B],hAF[¯] Framing Error
+0.075,h42[B],hAF[¯] Framing Error
+0.0775,h42[B],hAF[¯] Framing Error
+0.08,h42[B],hAF[¯] Framing Error
+0.0825,h42[B],hAF[¯] Framing Error
+0.08500000000000001,h42[B],hAF[¯] Framing Error
+0.08749999999999999,h42[B],hAF[¯] Framing Error
+0.09,h42[B],hAF[¯] Framing Error
+0.0925,h42[B],hAF[¯] Framing Error
+0.095,h42[B],hAF[¯] Framing Error
+0.0975,h42[B],hAF[¯] Framing Error
+0.1,h42[B],hAF[¯] Framing Error
+0.1025,h42[B],hAF[¯] Framing Error
+0.105,h42[B],hAF[¯] Framing Error
+0.1075,h42[B],hAF[¯] Framing Error
+0.11,h42[B],hAF[¯] Framing Error
+0.1125,h42[B],hAF[¯] Framing Error
+0.115,h42[B],hAF[¯] Framing Error
+0.1175,h42[B],hAF[¯] Framing Error
+0.12,h42[B],hAF[¯] Framing Error
+0.1225,h42[B],hAF[¯] Framing Error
+0.125,h42[B],hAF[¯] Framing Error
+0.1275,h42[B],hAF[¯] Framing Error
+0.13,h42[B],hAF[¯] Framing Error
+0.1325,h42[B],hAF[¯] Framing Error
+0.135,h42[B],hAF[¯] Framing Error
+0.1375,h42[B],hAF[¯] Framing Error
+0.14,h42[B],hAF[¯] Framing Error
+0.1425,h42[B],hAF[¯] Framing Error
+0.145,h42[B],hAF[¯] Framing Error
+0.1475,h42[B],hAF[¯] Framing Error
+0.15,h42[B],hAF[¯] Framing Error
+0.1525,h42[B],hAF[¯] Framing Error
+0.155,h42[B],hAF[¯] Framing Error
+0.1575,h42[B],hAF[¯] Framing Error
+0.16,h42[B],hAF[¯] Framing Error
+0.1625,h42[B],hAF[¯] Framing Error
+0.165,h42[B],hAF[¯] Framing Error
+0.1675,h42[B],hAF[¯] Framing Error
+0.17,h42[B],hAF[¯] Framing Error
+0.1725,h42[B],hAF[¯] Framing Error
+0.175,h42[B],hAF[¯] Framing Error
+0.1775,h42[B],hAF[¯] Framing Error
+0.18,h42[B],hAF[¯] Framing Error
+0.1825,h42[B],hAF[¯] Framing Error
+0.185,h42[B],hAF[¯] Framing Error
+0.1875,h42[B],hAF[¯] Framing Error
+0.19,h42[B],hAF[¯] Framing Error
+0.1925,h42[B],hAF[¯] Framing Error
+0.195,h42[B],hAF[¯] Framing Error
+0.1975,h42[B],hAF[¯] Framing Error
+0.2,h42[B],hAF[¯] Framing Error
+0.2025,h42[B],hAF[¯] Framing Error
+0.205,h42[B],hAF[¯] Framing Error
+0.2075,h42[B],hAF[¯] Framing Error
+0.21,h42[B],hAF[¯] Framing Error
+0.2125,h42[B],hAF[¯] Framing Error
+0.215,h42[B],hAF[¯] Framing Error
+0.2175,h42[B],hAF[¯] Framing Error
+0.22,h42[B],hAF[¯] Framing Error
+0.2225,h42[B],hAF[¯] Framing Error
+0.225,h42[B],hAF[¯] Framing Error
+0.2275,h42[B],hAF[¯] Framing Error
+0.23,h42[B],hAF[¯] Framing Error
+0.2325,h42[B],hAF[¯] Framing Error
+0.235,h42[B],hAF[¯] Framing Error
+0.2375,h42[B],hAF[¯] Framing Error
+0.24,h42[B],hAF[¯] Framing Error
+0.2425,h42[B],hAF[¯] Framing Error
+0.245,h42[B],hAF[¯] Framing Error
+0.2475,h42[B],hAF[¯] Framing Error
+0.25,h42[B],hAF[¯] Framing Error
+0.2525,h42[B],hAF[¯] Framing Error
+0.255,h42[B],hAF[¯] Framing Error
+0.2575,h42[B],hAF[¯] Framing Error
+0.26,h42[B],hAF[¯] Framing Error
+0.2625,h42[B],hAF[¯] Framing Error
+0.265,h42[B],hAF[¯] Framing Error
+0.2675,h42[B],hAF[¯] Framing Error
+0.27,h42[B],hAF[¯] Framing Error
+0.2725,X,hAF[¯] Framing Error
+0.275,X,hAF[¯] Framing Error
+0.2775,X,hAF[¯] Framing Error
+0.28,X,hAF[¯] Framing Error
+0.2825,X,hAF[¯] Framing Error
+0.285,X,hAF[¯] Framing Error
+0.2875,X,hAF[¯] Framing Error
+0.29,X,hAF[¯] Framing Error
+0.2925,X,hAF[¯] Framing Error
+0.295,h4F[O],hAF[¯] Framing Error
+0.2975,h4F[O],hAF[¯] Framing Error
+0.3,h4F[O],hAF[¯] Framing Error
+0.3025,h4F[O],hAF[¯] Framing Error
+0.305,h4F[O],hAF[¯] Framing Error
+0.3075,h4F[O],hAF[¯] Framing Error
+0.31,h4F[O],hAF[¯] Framing Error
+0.3125,h4F[O],hAF[¯] Framing Error
+0.315,h4F[O],hAF[¯] Framing Error
+0.3175,h4F[O],hAF[¯] Framing Error
+0.32,h4F[O],hAF[¯] Framing Error
+0.3225,h4F[O],hAF[¯] Framing Error
+0.325,h4F[O],hAF[¯] Framing Error
+0.3275,h4F[O],hAF[¯] Framing Error
+0.33,h4F[O],hAF[¯] Framing Error
+0.3325,h4F[O],hAF[¯] Framing Error
+0.335,h4F[O],hAF[¯] Framing Error
+0.3375,h4F[O],hAF[¯] Framing Error
+0.34,h4F[O],hAF[¯] Framing Error
+0.3425,h4F[O],hAF[¯] Framing Error
+0.345,h4F[O],hAF[¯] Framing Error
+0.3475,h4F[O],hAF[¯] Framing Error
+0.35,h4F[O],hAF[¯] Framing Error
+0.3525,h4F[O],hAF[¯] Framing Error
+0.355,h4F[O],hAF[¯] Framing Error
+0.3575,h4F[O],hAF[¯] Framing Error
+0.36,h4F[O],hAF[¯] Framing Error
+0.3625,h4F[O],hAF[¯] Framing Error
+0.365,h4F[O],hAF[¯] Framing Error
+0.3675,h4F[O],hAF[¯] Framing Error
+0.37,h4F[O],hAF[¯] Framing Error
+0.3725,h4F[O],hAF[¯] Framing Error
+0.375,h4F[O],X
+0.3775,h4F[O],X
+0.38,h4F[O],X
+0.3825,h4F[O],X
+0.385,h4F[O],X
+0.3875,h4F[O],X
+0.39,h4F[O],X
+0.3925,h4F[O],X
+0.395,h4F[O],X
+0.3975,h4F[O],X
+0.4,h4F[O],X
+0.4025,h4F[O],X
+0.405,h4F[O],X
+0.4075,h4F[O],X
+0.41,h4F[O],X
+0.4125,h4F[O],X
+0.415,h4F[O],X
+0.4175,h4F[O],X
+0.42,h4F[O],X
+0.4225,h4F[O],X
+0.425,h4F[O],X
+0.4275,h4F[O],X
+0.43,h4F[O],X
+0.4325,h4F[O],X
+0.435,h4F[O],X
+0.4375,h4F[O],X
+0.44,h4F[O],X
+0.4425,h4F[O],X
+0.445,h4F[O],X
+0.4475,h4F[O],X
+0.45,h4F[O],X
+0.4525,h4F[O],X
+0.455,h4F[O],X
+0.4575,h4F[O],X
+0.46,h4F[O],X
+0.4625,h4F[O],X
+0.465,h4F[O],X
+0.4675,h4F[O],X
+0.47,h4F[O],X
+0.4725,h4F[O],X
+0.475,h4F[O],X
+0.4775,h4F[O],X
+0.48,h4F[O],X
+0.4825,h4F[O],X
+0.485,h4F[O],X
+0.4875,h4F[O],X
+0.49,h4F[O],X
+0.4925,h4F[O],X
+0.495,h4F[O],X
+0.4975,h4F[O],X
+0.5,h4F[O],X
+0.5024999999999999,h4F[O],X
+0.505,h4F[O],X
+0.5075,h4F[O],X
+0.51,h4F[O],X
+0.5125,h4F[O],X
+0.515,h4F[O],X
+0.5175,h4F[O],X
+0.52,h4F[O],X
+0.5225,h4F[O],X
+0.525,h4F[O],X
+0.5275,h4F[O],X
+0.53,h4F[O],X
+0.5325,h4F[O],X
+0.535,h4F[O],X
+0.5375,h4F[O],X
+0.54,h4F[O],X
+0.5425,h4F[O],X
+0.545,h4F[O],X
+0.5475,h4F[O],X
+0.55,h4F[O],X
+0.5525,h4F[O],X
+0.555,h4F[O],X
+0.5575,h4F[O],X
+0.5600000000000001,h4F[O],X
+0.5625,h4F[O],X
+0.5649999999999999,h4F[O],X
+0.5675,h4F[O],X
+0.57,h4F[O],X
+0.5725,h4F[O],X
+0.575,h4F[O],X
+0.5775,h4F[O],X
+0.58,h4F[O],X
+0.5825,h4F[O],X
+0.585,h4F[O],X
+0.5875,h4F[O],X
+0.59,h4F[O],X
+0.5925,h4F[O],X
+0.595,h4F[O],X
+0.5975,h4F[O],X
+0.6,h4F[O],X
+0.6025,h4F[O],X
+0.605,h4F[O],X
+0.6075,h4F[O],X
+0.61,h4F[O],X
+0.6125,h4F[O],X
+0.615,h4F[O],X
+0.6175,h4F[O],X
+0.62,h4F[O],X
+0.6225000000000001,h4F[O],X
+0.625,h4F[O],X
+0.6274999999999999,h4F[O],X
+0.63,h4F[O],X
+0.6325,h4F[O],X
+0.635,h4F[O],X
+0.6375,h4F[O],X
+0.64,h4F[O],X
+0.6425,h4F[O],X
+0.645,h4F[O],X
+0.6475,h4F[O],hC5[Å]
+0.65,h4F[O],hC5[Å]
+0.6525,h4F[O],hC5[Å]
+0.655,h4F[O],hC5[Å]
+0.6575,h4F[O],hC5[Å]
+0.66,h4F[O],hC5[Å]
+0.6625,h4F[O],hC5[Å]
+0.665,h4F[O],hC5[Å]
+0.6675,h4F[O],hC5[Å]
+0.67,h4F[O],hC5[Å]
+0.6725,h4F[O],hC5[Å]
+0.675,h4F[O],hC5[Å]
+0.6775,h4F[O],hC5[Å]
+0.68,h4F[O],hC5[Å]
+0.6825,h4F[O],hC5[Å]
+0.6850000000000001,h4F[O],hC5[Å]
+0.6875,h4F[O],hC5[Å]
+0.6899999999999999,h4F[O],hC5[Å]
+0.6925,h4F[O],hC5[Å]
+0.695,h4F[O],hC5[Å]
+0.6975,h4F[O],hC5[Å]
+0.7,h4F[O],hC5[Å]
+0.7025,h4F[O],hC5[Å]
+0.705,h4F[O],hC5[Å]
+0.7075,h4F[O],hC5[Å]
+0.71,h4F[O],hC5[Å]
+0.7125,h4F[O],hC5[Å]
+0.715,h4F[O],hC5[Å]
+0.7175,h4F[O],hC5[Å]
+0.72,h4F[O],hC5[Å]
+0.7225,h4F[O],hC5[Å]
+0.725,h4F[O],hC5[Å]
+0.7275,h4F[O],hC5[Å]
+0.73,h4F[O],hC5[Å]
+0.7325,h4F[O],hC5[Å]
+0.735,h4F[O],hC5[Å]
+0.7375,h4F[O],hC5[Å]
+0.74,h4F[O],hC5[Å]
+0.7425,h4F[O],hC5[Å]
+0.745,h4F[O],hC5[Å]
+0.7475000000000001,h4F[O],hC5[Å]
+0.75,h4F[O],hC5[Å]
+0.7524999999999999,h4F[O],hC5[Å]
+0.755,h4F[O],hC5[Å]
+0.7575,h4F[O],hC5[Å]
+0.76,h4F[O],hC5[Å]
+0.7625,h4F[O],hC5[Å]
+0.765,h4F[O],hC5[Å]
+0.7675,h4F[O],hC5[Å]
+0.77,h4F[O],hC5[Å]
+0.7725,X,hC5[Å]
+0.775,X,hC5[Å]
+0.7775,X,hC5[Å]
+0.78,X,hC5[Å]
+0.7825,X,hC5[Å]
+0.785,X,hC5[Å]
+0.7875,X,hC5[Å]
+0.79,X,hC5[Å]
+0.7925,X,hC5[Å]
+0.795,h47[G],hC5[Å]
+0.7975,h47[G],hC5[Å]
+0.8,h47[G],hC5[Å]
+0.8025,h47[G],hC5[Å]
+0.805,h47[G],hC5[Å]
+0.8075,h47[G],hC5[Å]
+0.8100000000000001,h47[G],hC5[Å]
+0.8125,h47[G],hC5[Å]
+0.8149999999999999,h47[G],hC5[Å]
+0.8175,h47[G],hC5[Å]
+0.82,h47[G],hC5[Å]
+0.8225,h47[G],hC5[Å]
+0.825,h47[G],hC5[Å]
+0.8275,h47[G],hC5[Å]
+0.83,h47[G],hC5[Å]
+0.8325,h47[G],hC5[Å]
+0.835,h47[G],hC5[Å]
+0.8375,h47[G],hC5[Å]
+0.84,h47[G],hC5[Å]
+0.8425,h47[G],hC5[Å]
+0.845,h47[G],hC5[Å]
+0.8475,h47[G],hC5[Å]
+0.85,h47[G],hC5[Å]
+0.8525,h47[G],hC5[Å]
+0.855,h47[G],hC5[Å]
+0.8575,h47[G],hC5[Å]
+0.86,h47[G],hC5[Å]
+0.8625,h47[G],hC5[Å]
+0.865,h47[G],hC5[Å]
+0.8675,h47[G],hC5[Å]
+0.87,h47[G],hC5[Å]
+0.8725000000000001,h47[G],hC5[Å]
+0.875,h47[G],hC5[Å]
+0.8774999999999999,h47[G],hC5[Å]
+0.88,h47[G],hC5[Å]
+0.8825,h47[G],hC5[Å]
+0.885,h47[G],hC5[Å]
+0.8875,h47[G],hC5[Å]
+0.89,h47[G],hC5[Å]
+0.8925,h47[G],hC5[Å]
+0.895,h47[G],hC5[Å]
+0.8975,h47[G],hC5[Å]
+0.9,h47[G],hC5[Å]
+0.9025,h47[G],hC5[Å]
+0.905,h47[G],hC5[Å]
+0.9075,h47[G],hC5[Å]
+0.91,h47[G],hC5[Å]
+0.9125,h47[G],hC5[Å]
+0.915,h47[G],hC5[Å]
+0.9175,h47[G],hC5[Å]
+0.92,h47[G],hC5[Å]
+0.9225,h47[G],hC5[Å]
+0.925,h47[G],hC5[Å]
+0.9275,h47[G],hC5[Å]
+0.93,h47[G],hC5[Å]
+0.9325,h47[G],hC5[Å]
+0.9350000000000001,h47[G],hC5[Å]
+0.9375,h47[G],hC5[Å]
+0.9399999999999999,h47[G],hC5[Å]
+0.9425,h47[G],hC5[Å]
+0.945,h47[G],hC5[Å]
+0.9475,h47[G],hC5[Å]
+0.95,h47[G],hC5[Å]
+0.9525,h47[G],hC5[Å]
+0.955,h47[G],hC5[Å]
+0.9575,h47[G],hC5[Å]
+0.96,h47[G],hC5[Å]
+0.9625,h47[G],hC5[Å]
+0.965,h47[G],hC5[Å]
+0.9675,h47[G],hC5[Å]
+0.97,h47[G],hC5[Å]
+0.9725,h47[G],hC5[Å]
+0.975,h47[G],hC5[Å]
+0.9775,h47[G],hC5[Å]
+0.98,h47[G],hC5[Å]
+0.9825,h47[G],hC5[Å]
+0.985,h47[G],hC5[Å]
+0.9875,h47[G],hC5[Å]
+0.99,h47[G],hC5[Å]
+0.9925,h47[G],hC5[Å]
+0.995,h47[G],hC5[Å]
+0.9975000000000001,h47[G],hC5[Å]
+1,h47[G],hC5[Å]
+1.0025,h47[G],hC5[Å]
+1.005,h47[G],hC5[Å]
+1.0075,h47[G],hC5[Å]
+1.01,h47[G],hC5[Å]
+1.0125,h47[G],hC5[Å]
+1.015,h47[G],hC5[Å]
+1.0175,h47[G],hC5[Å]
+1.02,h47[G],hC5[Å]
+1.0225,h47[G],hC5[Å]
+1.025,h47[G],hC5[Å]
+1.0275,h47[G],hC5[Å]
+1.03,h47[G],hC5[Å]
+1.0325,h47[G],hC5[Å]
+1.035,h47[G],hC5[Å]
+1.0375,h47[G],hC5[Å]
+1.04,h47[G],hC5[Å]
+1.0425,h47[G],hC5[Å]
+1.045,h47[G],hC5[Å]
+1.0475,h47[G],hC5[Å]
+1.05,h47[G],hC5[Å]
+1.0525,h47[G],hC5[Å]
+1.055,h47[G],hC5[Å]
+1.0575,h47[G],hC5[Å]
+1.06,h47[G],hC5[Å]
+1.0625,h47[G],hC5[Å]
+1.065,h47[G],hC5[Å]
+1.0675,h47[G],hC5[Å]
+1.07,h47[G],hC5[Å]
+1.0725,h47[G],hC5[Å]
+1.075,h47[G],hC5[Å]
+1.0775,h47[G],hC5[Å]
+1.08,h47[G],hC5[Å]
+1.0825,h47[G],hC5[Å]
+1.085,h47[G],hC5[Å]
+1.0875,h47[G],hC5[Å]
+1.09,h47[G],hC5[Å]
+1.0925,h47[G],hC5[Å]
+1.095,h47[G],hC5[Å]
+1.0975,h47[G],hC5[Å]
+1.1,h47[G],hC5[Å]
+1.1025,h47[G],hC5[Å]
+1.105,h47[G],hC5[Å]
+1.1075,h47[G],hC5[Å]
+1.11,h47[G],hC5[Å]
+1.1125,h47[G],hC5[Å]
+1.115,h47[G],hC5[Å]
+1.1175,h47[G],hC5[Å]
+1.12,h47[G],hC5[Å]
+1.1225,h47[G],hC5[Å]
+1.125,h47[G],X
+1.1275,h47[G],X
+1.13,h47[G],X
+1.1325,h47[G],X
+1.135,h47[G],X
+1.1375,h47[G],h85
+1.14,h47[G],h85
+1.1425,h47[G],h85
+1.145,h47[G],h85
+1.1475,h47[G],h85
+1.15,h47[G],h85
+1.1525,h47[G],h85
+1.155,h47[G],h85
+1.1575,h47[G],h85
+1.16,h47[G],h85
+1.1625,h47[G],h85
+1.165,h47[G],h85
+1.1675,h47[G],h85
+1.17,h47[G],h85
+1.1725,h47[G],h85
+1.175,h47[G],h85
+1.1775,h47[G],h85
+1.18,h47[G],h85
+1.1825,h47[G],h85
+1.185,h47[G],h85
+1.1875,h47[G],h85
+1.19,h47[G],h85
+1.1925,h47[G],h85
+1.195,h47[G],h85
+1.1975,h47[G],h85
+1.2,h47[G],h85
+1.2025,h47[G],h85
+1.205,h47[G],h85
+1.2075,h47[G],h85
+1.21,h47[G],h85
+1.2125,h47[G],h85
+1.215,h47[G],h85
+1.2175,h47[G],h85
+1.22,h47[G],h85
+1.2225,h47[G],h85
+1.225,h47[G],h85
+1.2275,h47[G],h85
+1.23,h47[G],h85
+1.2325,h47[G],h85
+1.235,h47[G],h85
+1.2375,h47[G],h85
+1.24,h47[G],h85
+1.2425,h47[G],h85
+1.245,h47[G],h85
+1.2475,h47[G],h85
+1.25,h47[G],h85
+1.2525,h47[G],h85
+1.255,h47[G],h85
+1.2575,h47[G],h85
+1.26,h47[G],h85
+1.2625,h47[G],h85
+1.265,h47[G],h85
+1.2675,h47[G],h85
+1.27,h47[G],h85
+1.2725,X,h85
+1.275,X,h85
+1.2775,X,h85
+1.28,X,h85
+1.2825,X,h85
+1.285,X,h85
+1.2875,X,h85
+1.29,X,h85
+1.2925,X,h85
+1.295,h4F[O],h85
+1.2975,h4F[O],h85
+1.3,h4F[O],h85
+1.3025,h4F[O],h85
+1.305,h4F[O],h85
+1.3075,h4F[O],h85
+1.31,h4F[O],h85
+1.3125,h4F[O],h85
+1.315,h4F[O],h85
+1.3175,h4F[O],h85
+1.32,h4F[O],h85
+1.3225,h4F[O],h85
+1.325,h4F[O],h85
+1.3275,h4F[O],h85
+1.33,h4F[O],h85
+1.3325,h4F[O],h85
+1.335,h4F[O],h85
+1.3375,h4F[O],h85
+1.34,h4F[O],h85
+1.3425,h4F[O],h85
+1.345,h4F[O],h85
+1.3475,h4F[O],h85
+1.35,h4F[O],h85
+1.3525,h4F[O],h85
+1.355,h4F[O],h85
+1.3575,h4F[O],h85
+1.36,h4F[O],h85
+1.3625,h4F[O],h85
+1.365,h4F[O],h85
+1.3675,h4F[O],h85
+1.37,h4F[O],h85
+1.3725,h4F[O],h85
+1.375,h4F[O],h85
+1.3775,h4F[O],h85
+1.38,h4F[O],h85
+1.3825,h4F[O],h85
+1.385,h4F[O],h85
+1.3875,h4F[O],h85
+1.39,h4F[O],h85
+1.3925,h4F[O],h85
+1.395,h4F[O],h85
+1.3975,h4F[O],h85
+1.4,h4F[O],h85
+1.4025,h4F[O],h85
+1.405,h4F[O],h85
+1.4075,h4F[O],h85
+1.41,h4F[O],h85
+1.4125,h4F[O],h85
+1.415,h4F[O],h85
+1.4175,h4F[O],h85
+1.42,h4F[O],h85
+1.4225,h4F[O],h85
+1.425,h4F[O],h85
+1.4275,h4F[O],h85
+1.43,h4F[O],h85
+1.4325,h4F[O],h85
+1.435,h4F[O],h85
+1.4375,h4F[O],h85
+1.44,h4F[O],h85
+1.4425,h4F[O],h85
+1.445,h4F[O],h85
+1.4475,h4F[O],h85
+1.45,h4F[O],h85
+1.4525,h4F[O],h85
+1.455,h4F[O],h85
+1.4575,h4F[O],h85
+1.46,h4F[O],h85
+1.4625,h4F[O],h85
+1.465,h4F[O],h85
+1.4675,h4F[O],h85
+1.47,h4F[O],h85
+1.4725,h4F[O],h85
+1.475,h4F[O],h85
+1.4775,h4F[O],h85
+1.48,h4F[O],h85
+1.4825,h4F[O],h85
+1.485,h4F[O],h85
+1.4875,h4F[O],h85
+1.49,h4F[O],h85
+1.4925,h4F[O],h85
+1.495,h4F[O],h85
+1.4975,h4F[O],h85
+1.5,h4F[O],h85
+1.5025,h4F[O],h85
+1.505,h4F[O],h85
+1.5075,h4F[O],h85
+1.51,h4F[O],h85
+1.5125,h4F[O],h85
+1.515,h4F[O],h85
+1.5175,h4F[O],h85
+1.52,h4F[O],h85
+1.5225,h4F[O],h85
+1.525,h4F[O],h85
+1.5275,h4F[O],h85
+1.53,h4F[O],h85
+1.5325,h4F[O],h85
+1.535,h4F[O],h85
+1.5375,h4F[O],h85
+1.54,h4F[O],h85
+1.5425,h4F[O],h85
+1.545,h4F[O],h85
+1.5475,h4F[O],h85
+1.55,h4F[O],h85
+1.5525,h4F[O],h85
+1.555,h4F[O],h85
+1.5575,h4F[O],h85
+1.56,h4F[O],h85
+1.5625,h4F[O],h85
+1.565,h4F[O],h85
+1.5675,h4F[O],h85
+1.57,h4F[O],h85
+1.5725,h4F[O],h85
+1.575,h4F[O],h85
+1.5775,h4F[O],h85
+1.58,h4F[O],h85
+1.5825,h4F[O],h85
+1.585,h4F[O],h85
+1.5875,h4F[O],h85
+1.59,h4F[O],h85
+1.5925,h4F[O],h85
+1.595,h4F[O],h85
+1.5975,h4F[O],h85
+1.6,h4F[O],h85
+1.6025,h4F[O],h85
+1.605,h4F[O],h85
+1.6075,h4F[O],h85
+1.61,h4F[O],h85
+1.6125,h4F[O],h85
+1.615,h4F[O],X
+1.6175,h4F[O],X
+1.62,h4F[O],X
+1.6225,h4F[O],X
+1.625,h4F[O],X
+1.6275,h4F[O],X
+1.63,h4F[O],X
+1.6325,h4F[O],X
+1.635,h4F[O],X
+1.6375,h4F[O],X
+1.64,h4F[O],h5D[]]
+1.6425,h4F[O],h5D[]]
+1.645,h4F[O],h5D[]]
+1.6475,h4F[O],h5D[]]
+1.65,h4F[O],h5D[]]
+1.6525,h4F[O],h5D[]]
+1.655,h4F[O],h5D[]]
+1.6575,h4F[O],h5D[]]
+1.66,h4F[O],h5D[]]
+1.6625,h4F[O],h5D[]]
+1.665,h4F[O],h5D[]]
+1.6675,h4F[O],h5D[]]
+1.67,h4F[O],h5D[]]
+1.6725,h4F[O],h5D[]]
+1.675,h4F[O],h5D[]]
+1.6775,h4F[O],h5D[]]
+1.68,h4F[O],h5D[]]
+1.6825,h4F[O],h5D[]]
+1.685,h4F[O],h5D[]]
+1.6875,h4F[O],h5D[]]
+1.69,h4F[O],h5D[]]
+1.6925,h4F[O],h5D[]]
+1.695,h4F[O],h5D[]]
+1.6975,h4F[O],h5D[]]
+1.7,h4F[O],h5D[]]
+1.7025,h4F[O],h5D[]]
+1.705,h4F[O],h5D[]]
+1.7075,h4F[O],h5D[]]
+1.71,h4F[O],h5D[]]
+1.7125,h4F[O],h5D[]]
+1.715,h4F[O],h5D[]]
+1.7175,h4F[O],h5D[]]
+1.72,h4F[O],h5D[]]
+1.7225,h4F[O],h5D[]]
+1.725,h4F[O],h5D[]]
+1.7275,h4F[O],h5D[]]
+1.73,h4F[O],h5D[]]
+1.7325,h4F[O],h5D[]]
+1.735,h4F[O],h5D[]]
+1.7375,h4F[O],h5D[]]
+1.74,h4F[O],h5D[]]
+1.7425,h4F[O],h5D[]]
+1.745,h4F[O],h5D[]]
+1.7475,h4F[O],h5D[]]
+1.75,h4F[O],h5D[]]
+1.7525,h4F[O],h5D[]]
+1.755,h4F[O],h5D[]]
+1.7575,h4F[O],h5D[]]
+1.76,h4F[O],h5D[]]
+1.7625,h4F[O],h5D[]]
+1.765,h4F[O],h5D[]]
+1.7675,h4F[O],h5D[]]
+1.77,h4F[O],h5D[]]
+1.7725,X,h5D[]]
+1.775,X,h5D[]]
+1.7775,X,h5D[]]
+1.78,X,h5D[]]
+1.7825,X,h5D[]]
+1.785,X,h5D[]]
+1.7875,X,h5D[]]
+1.79,X,h5D[]]
+1.7925,X,h5D[]]
+1.795,h54[T],h5D[]]
+1.7975,h54[T],h5D[]]
+1.8,h54[T],h5D[]]
+1.8025,h54[T],h5D[]]
+1.805,h54[T],h5D[]]
+1.8075,h54[T],h5D[]]
+1.81,h54[T],h5D[]]
+1.8125,h54[T],h5D[]]
+1.815,h54[T],h5D[]]
+1.8175,h54[T],h5D[]]
+1.82,h54[T],h5D[]]
+1.8225,h54[T],h5D[]]
+1.825,h54[T],h5D[]]
+1.8275,h54[T],h5D[]]
+1.83,h54[T],h5D[]]
+1.8325,h54[T],h5D[]]
+1.835,h54[T],h5D[]]
+1.8375,h54[T],h5D[]]
+1.84,h54[T],h5D[]]
+1.8425,h54[T],h5D[]]
+1.845,h54[T],h5D[]]
+1.8475,h54[T],h5D[]]
+1.85,h54[T],h5D[]]
+1.8525,h54[T],h5D[]]
+1.855,h54[T],h5D[]]
+1.8575,h54[T],h5D[]]
+1.86,h54[T],h5D[]]
+1.8625,h54[T],h5D[]]
+1.865,h54[T],h5D[]]
+1.8675,h54[T],h5D[]]
+1.87,h54[T],h5D[]]
+1.8725,h54[T],h5D[]]
+1.875,h54[T],h5D[]]
+1.8775,h54[T],h5D[]]
+1.88,h54[T],h5D[]]
+1.8825,h54[T],h5D[]]
+1.885,h54[T],h5D[]]
+1.8875,h54[T],h5D[]]
+1.89,h54[T],h5D[]]
+1.8925,h54[T],h5D[]]
+1.895,h54[T],h5D[]]
+1.8975,h54[T],h5D[]]
+1.9,h54[T],h5D[]]
+1.9025,h54[T],h5D[]]
+1.905,h54[T],h5D[]]
+1.9075,h54[T],h5D[]]
+1.91,h54[T],h5D[]]
+1.9125,h54[T],h5D[]]
+1.915,h54[T],h5D[]]
+1.9175,h54[T],h5D[]]
+1.92,h54[T],h5D[]]
+1.9225,h54[T],h5D[]]
+1.925,h54[T],h5D[]]
+1.9275,h54[T],h5D[]]
+1.93,h54[T],h5D[]]
+1.9325,h54[T],h5D[]]
+1.935,h54[T],h5D[]]
+1.9375,h54[T],h5D[]]
+1.94,h54[T],h5D[]]
+1.9425,h54[T],h5D[]]
+1.945,h54[T],h5D[]]
+1.9475,h54[T],h5D[]]
+1.95,h54[T],h5D[]]
+1.9525,h54[T],h5D[]]
+1.955,h54[T],h5D[]]
+1.9575,h54[T],h5D[]]
+1.96,h54[T],h5D[]]
+1.9625,h54[T],h5D[]]
+1.965,h54[T],h5D[]]
+1.9675,h54[T],h5D[]]
+1.97,h54[T],h5D[]]
+1.9725,h54[T],h5D[]]
+1.975,h54[T],h5D[]]
+1.9775,h54[T],h5D[]]
+1.98,h54[T],h5D[]]
+1.9825,h54[T],h5D[]]
+1.985,h54[T],h5D[]]
+1.9875,h54[T],h5D[]]
+1.99,h54[T],h5D[]]
+1.9925,h54[T],h5D[]]
+1.995,h54[T],h5D[]]
+1.9975,h54[T],h5D[]]
+2,h54[T],h5D[]]
+2.0025,h54[T],h5D[]]
+2.005,h54[T],h5D[]]
+2.0075,h54[T],h5D[]]
+2.01,h54[T],h5D[]]
+2.0125,h54[T],h5D[]]
+2.015,h54[T],h5D[]]
+2.0175,h54[T],h5D[]]
+2.02,h54[T],h5D[]]
+2.0225,h54[T],h5D[]]
+2.025,h54[T],h5D[]]
+2.0275,h54[T],h5D[]]
+2.03,h54[T],h5D[]]
+2.0325,h54[T],h5D[]]
+2.035,h54[T],h5D[]]
+2.0375,h54[T],h5D[]]
+2.04,h54[T],h5D[]]
+2.0425,h54[T],h5D[]]
+2.045,h54[T],h5D[]]
+2.0475,h54[T],h5D[]]
+2.05,h54[T],h5D[]]
+2.0525,h54[T],h5D[]]
+2.055,h54[T],h5D[]]
+2.0575,h54[T],h5D[]]
+2.06,h54[T],h5D[]]
+2.0625,h54[T],h5D[]]
+2.065,h54[T],h5D[]]
+2.0675,h54[T],h5D[]]
+2.07,h54[T],h5D[]]
+2.0725,h54[T],h5D[]]
+2.075,h54[T],h5D[]]
+2.0775,h54[T],h5D[]]
+2.08,h54[T],h5D[]]
+2.0825,h54[T],h5D[]]
+2.085,h54[T],h5D[]]
+2.0875,h54[T],h5D[]]
+2.09,h54[T],h5D[]]
+2.0925,h54[T],h5D[]]
+2.095,h54[T],h5D[]]
+2.0975,h54[T],h5D[]]
+2.1,h54[T],h5D[]]
+2.1025,h54[T],h5D[]]
+2.105,h54[T],h5D[]]
+2.1075,h54[T],h5D[]]
+2.11,h54[T],h5D[]]
+2.1125,h54[T],h5D[]]
+2.115,h54[T],h5D[]]
+2.1175,h54[T],X
+2.12,h54[T],X
+2.1225,h54[T],X
+2.125,h54[T],X
+2.1275,h54[T],X
+2.13,h54[T],X
+2.1325,h54[T],X
+2.135,h54[T],X
+2.1375,h54[T],X
+2.14,h54[T],X
+2.1425,h54[T],X
+2.145,h54[T],X
+2.1475,h54[T],hF5[õ]
+2.15,h54[T],hF5[õ]
+2.1525,h54[T],hF5[õ]
+2.155,h54[T],hF5[õ]
+2.1575,h54[T],hF5[õ]
+2.16,h54[T],hF5[õ]
+2.1625,h54[T],hF5[õ]
+2.165,h54[T],hF5[õ]
+2.1675,h54[T],hF5[õ]
+2.17,h54[T],hF5[õ]
+2.1725,h54[T],hF5[õ]
+2.175,h54[T],hF5[õ]
+2.1775,h54[T],hF5[õ]
+2.18,h54[T],hF5[õ]
+2.1825,h54[T],hF5[õ]
+2.185,h54[T],hF5[õ]
+2.1875,h54[T],hF5[õ]
+2.19,h54[T],hF5[õ]
+2.1925,h54[T],hF5[õ]
+2.195,h54[T],hF5[õ]
+2.1975,h54[T],hF5[õ]
+2.2,h54[T],hF5[õ]
+2.2025,h54[T],hF5[õ]
+2.205,h54[T],hF5[õ]
+2.2075,h54[T],hF5[õ]
+2.21,h54[T],hF5[õ]
+2.2125,h54[T],hF5[õ]
+2.215,h54[T],hF5[õ]
+2.2175,h54[T],hF5[õ]
+2.22,h54[T],hF5[õ]
+2.2225,h54[T],hF5[õ]
+2.225,h54[T],hF5[õ]
+2.2275,h54[T],hF5[õ]
+2.23,h54[T],hF5[õ]
+2.2325,h54[T],hF5[õ]
+2.235,h54[T],hF5[õ]
+2.2375,h54[T],hF5[õ]
+2.24,h54[T],hF5[õ]
+2.2425,h54[T],hF5[õ]
+2.245,h54[T],hF5[õ]
+2.2475,h54[T],hF5[õ]
+2.25,h54[T],hF5[õ]
+2.2525,h54[T],hF5[õ]
+2.255,h54[T],hF5[õ]
+2.2575,h54[T],hF5[õ]
+2.26,h54[T],hF5[õ]
+2.2625,h54[T],hF5[õ]
+2.265,h54[T],hF5[õ]
+2.2675,h54[T],hF5[õ]
+2.27,h54[T],hF5[õ]
+2.2725,X,hF5[õ]
+2.275,X,hF5[õ]
+2.2775,X,hF5[õ]
+2.28,X,hF5[õ]
+2.2825,X,hF5[õ]
+2.285,X,hF5[õ]
+2.2875,X,hF5[õ]
+2.29,X,hF5[õ]
+2.2925,X,hF5[õ]
+2.295,h41[A],hF5[õ]
+2.2975,h41[A],hF5[õ]
+2.3,h41[A],hF5[õ]
+2.3025,h41[A],hF5[õ]
+2.305,h41[A],hF5[õ]
+2.3075,h41[A],hF5[õ]
+2.31,h41[A],hF5[õ]
+2.3125,h41[A],hF5[õ]
+2.315,h41[A],hF5[õ]
+2.3175,h41[A],hF5[õ]
+2.32,h41[A],hF5[õ]
+2.3225,h41[A],hF5[õ]
+2.325,h41[A],hF5[õ]
+2.3275,h41[A],hF5[õ]
+2.33,h41[A],hF5[õ]
+2.3325,h41[A],hF5[õ]
+2.335,h41[A],hF5[õ]
+2.3375,h41[A],hF5[õ]
+2.34,h41[A],hF5[õ]
+2.3425,h41[A],hF5[õ]
+2.345,h41[A],hF5[õ]
+2.3475,h41[A],hF5[õ]
+2.35,h41[A],hF5[õ]
+2.3525,h41[A],hF5[õ]
+2.355,h41[A],hF5[õ]
+2.3575,h41[A],hF5[õ]
+2.36,h41[A],hF5[õ]
+2.3625,h41[A],hF5[õ]
+2.365,h41[A],hF5[õ]
+2.3675,h41[A],hF5[õ]
+2.37,h41[A],hF5[õ]
+2.3725,h41[A],hF5[õ]
+2.375,h41[A],hF5[õ]
+2.3775,h41[A],hF5[õ]
+2.38,h41[A],hF5[õ]
+2.3825,h41[A],hF5[õ]
+2.385,h41[A],hF5[õ]
+2.3875,h41[A],hF5[õ]
+2.39,h41[A],hF5[õ]
+2.3925,h41[A],hF5[õ]
+2.395,h41[A],hF5[õ]
+2.3975,h41[A],hF5[õ]
+2.4,h41[A],hF5[õ]
+2.4025,h41[A],hF5[õ]
+2.405,h41[A],hF5[õ]
+2.4075,h41[A],hF5[õ]
+2.41,h41[A],hF5[õ]
+2.4125,h41[A],hF5[õ]
+2.415,h41[A],hF5[õ]
+2.4175,h41[A],hF5[õ]
+2.42,h41[A],hF5[õ]
+2.4225,h41[A],hF5[õ]
+2.425,h41[A],hF5[õ]
+2.4275,h41[A],hF5[õ]
+2.43,h41[A],hF5[õ]
+2.4325,h41[A],hF5[õ]
+2.435,h41[A],hF5[õ]
+2.4375,h41[A],hF5[õ]
+2.44,h41[A],hF5[õ]
+2.4425,h41[A],hF5[õ]
+2.445,h41[A],hF5[õ]
+2.4475,h41[A],hF5[õ]
+2.45,h41[A],hF5[õ]
+2.4525,h41[A],hF5[õ]
+2.455,h41[A],hF5[õ]
+2.4575,h41[A],hF5[õ]
+2.46,h41[A],hF5[õ]
+2.4625,h41[A],hF5[õ]
+2.465,h41[A],hF5[õ]
+2.4675,h41[A],hF5[õ]
+2.47,h41[A],hF5[õ]
+2.4725,h41[A],hF5[õ]
+2.475,h41[A],hF5[õ]
+2.4775,h41[A],hF5[õ]
+2.48,h41[A],hF5[õ]
+2.4825,h41[A],hF5[õ]
+2.485,h41[A],hF5[õ]
+2.4875,h41[A],hF5[õ]
+2.49,h41[A],hF5[õ]
+2.4925,h41[A],hF5[õ]
+2.495,h41[A],hF5[õ]
+2.4975,h41[A],hF5[õ]
+2.5,h41[A],hF5[õ]
+2.5025,h41[A],hF5[õ]
+2.505,h41[A],hF5[õ]
+2.5075,h41[A],hF5[õ]
+2.51,h41[A],hF5[õ]
+2.5125,h41[A],hF5[õ]
+2.515,h41[A],hF5[õ]
+2.5175,h41[A],hF5[õ]
+2.52,h41[A],hF5[õ]
+2.5225,h41[A],hF5[õ]
+2.525,h41[A],hF5[õ]
+2.5275,h41[A],hF5[õ]
+2.53,h41[A],hF5[õ]
+2.5325,h41[A],hF5[õ]
+2.535,h41[A],hF5[õ]
+2.5375,h41[A],hF5[õ]
+2.54,h41[A],hF5[õ]
+2.5425,h41[A],hF5[õ]
+2.545,h41[A],hF5[õ]
+2.5475,h41[A],hF5[õ]
+2.55,h41[A],hF5[õ]
+2.5525,h41[A],hF5[õ]
+2.555,h41[A],hF5[õ]
+2.5575,h41[A],hF5[õ]
+2.56,h41[A],hF5[õ]
+2.5625,h41[A],hF5[õ]
+2.565,h41[A],hF5[õ]
+2.5675,h41[A],hF5[õ]
+2.57,h41[A],hF5[õ]
+2.5725,h41[A],hF5[õ]
+2.575,h41[A],hF5[õ]
+2.5775,h41[A],hF5[õ]
+2.58,h41[A],hF5[õ]
+2.5825,h41[A],hF5[õ]
+2.585,h41[A],hF5[õ]
+2.5875,h41[A],hF5[õ]
+2.59,h41[A],hF5[õ]
+2.5925,h41[A],hF5[õ]
+2.595,h41[A],hF5[õ]
+2.5975,h41[A],hF5[õ]
+2.6,h41[A],hF5[õ]
+2.6025,h41[A],hF5[õ]
+2.605,h41[A],hF5[õ]
+2.6075,h41[A],hF5[õ]
+2.61,h41[A],hF5[õ]
+2.6125,h41[A],hF5[õ]
+2.615,h41[A],hF5[õ]
+2.6175,h41[A],hF5[õ]
+2.62,h41[A],hF5[õ]
+2.6225,h41[A],hF5[õ]
+2.625,h41[A],X
+2.6275,h41[A],X
+2.63,h41[A],X
+2.6325,h41[A],X
+2.635,h41[A],X
+2.6375,h41[A],X
+2.64,h41[A],X
+2.6425,h41[A],X
+2.645,h41[A],X
+2.6475,h41[A],h01[SOH] Framing Error
+2.65,h41[A],h01[SOH] Framing Error
+2.6525,h41[A],h01[SOH] Framing Error
+2.655,h41[A],h01[SOH] Framing Error
+2.6575,h41[A],h01[SOH] Framing Error
+2.66,h41[A],h01[SOH] Framing Error
+2.6625,h41[A],h01[SOH] Framing Error
+2.665,h41[A],h01[SOH] Framing Error
+2.6675,h41[A],h01[SOH] Framing Error
+2.67,h41[A],h01[SOH] Framing Error
+2.6725,h41[A],h01[SOH] Framing Error
+2.675,h41[A],h01[SOH] Framing Error
+2.6775,h41[A],h01[SOH] Framing Error
+2.68,h41[A],h01[SOH] Framing Error
+2.6825,h41[A],h01[SOH] Framing Error
+2.685,h41[A],h01[SOH] Framing Error
+2.6875,h41[A],h01[SOH] Framing Error
+2.69,h41[A],h01[SOH] Framing Error
+2.6925,h41[A],h01[SOH] Framing Error
+2.695,h41[A],h01[SOH] Framing Error
+2.6975,h41[A],h01[SOH] Framing Error
+2.7,h41[A],h01[SOH] Framing Error
+2.7025,h41[A],h01[SOH] Framing Error
+2.705,h41[A],h01[SOH] Framing Error
+2.7075,h41[A],h01[SOH] Framing Error
+2.71,h41[A],h01[SOH] Framing Error
+2.7125,h41[A],h01[SOH] Framing Error
+2.715,h41[A],h01[SOH] Framing Error
+2.7175,h41[A],h01[SOH] Framing Error
+2.72,h41[A],h01[SOH] Framing Error
+2.7225,h41[A],h01[SOH] Framing Error
+2.725,h41[A],h01[SOH] Framing Error
+2.7275,h41[A],h01[SOH] Framing Error
+2.73,h41[A],h01[SOH] Framing Error
+2.7325,h41[A],h01[SOH] Framing Error
+2.735,h41[A],h01[SOH] Framing Error
+2.7375,h41[A],h01[SOH] Framing Error
+2.74,h41[A],h01[SOH] Framing Error
+2.7425,h41[A],h01[SOH] Framing Error
+2.745,h41[A],h01[SOH] Framing Error
+2.7475,h41[A],h01[SOH] Framing Error
+2.75,h41[A],h01[SOH] Framing Error
+2.7525,h41[A],h01[SOH] Framing Error
+2.755,h41[A],h01[SOH] Framing Error
+2.7575,h41[A],h01[SOH] Framing Error
+2.76,h41[A],h01[SOH] Framing Error
+2.7625,h41[A],h01[SOH] Framing Error
+2.765,h41[A],h01[SOH] Framing Error
+2.7675,h41[A],h01[SOH] Framing Error
+2.77,h41[A],h01[SOH] Framing Error
+2.7725,X,h01[SOH] Framing Error
+2.775,X,h01[SOH] Framing Error
+2.7775,X,h01[SOH] Framing Error
+2.78,X,h01[SOH] Framing Error
+2.7825,X,h01[SOH] Framing Error
+2.785,X,h01[SOH] Framing Error
+2.7875,X,h01[SOH] Framing Error
+2.79,X,h01[SOH] Framing Error
+2.7925,X,h01[SOH] Framing Error
+2.795,X,h01[SOH] Framing Error
+2.7975,X,h01[SOH] Framing Error
+2.8,X,h01[SOH] Framing Error
+2.8025,X,h01[SOH] Framing Error
+2.805,X,h01[SOH] Framing Error
+2.8075,X,h01[SOH] Framing Error
+2.81,X,h01[SOH] Framing Error
+2.8125,X,h01[SOH] Framing Error
+2.815,X,h01[SOH] Framing Error
+2.8175,X,h01[SOH] Framing Error
+2.82,X,h01[SOH] Framing Error
+2.8225,X,h01[SOH] Framing Error
+2.825,X,h01[SOH] Framing Error
+2.8275,X,h01[SOH] Framing Error
+2.83,X,h01[SOH] Framing Error
+2.8325,X,h01[SOH] Framing Error
+2.835,X,h01[SOH] Framing Error
+2.8375,X,h01[SOH] Framing Error
+2.84,X,h01[SOH] Framing Error
+2.8425,X,h01[SOH] Framing Error
+2.845,X,h01[SOH] Framing Error
+2.8475,X,h01[SOH] Framing Error
+2.85,X,h01[SOH] Framing Error
+2.8525,X,h01[SOH] Framing Error
+2.855,X,h01[SOH] Framing Error
+2.8575,X,h01[SOH] Framing Error
+2.86,X,h01[SOH] Framing Error
+2.8625,X,h01[SOH] Framing Error
+2.865,X,h01[SOH] Framing Error
+2.8675,X,h01[SOH] Framing Error
+2.87,X,h01[SOH] Framing Error
+2.8725,X,h01[SOH] Framing Error
+2.875,X,h01[SOH] Framing Error
+2.8775,X,h01[SOH] Framing Error
+2.88,X,h01[SOH] Framing Error
+2.8825,X,h01[SOH] Framing Error
+2.885,X,h01[SOH] Framing Error
+2.8875,X,h01[SOH] Framing Error
+2.89,X,h01[SOH] Framing Error
+2.8925,X,h01[SOH] Framing Error
+2.895,X,h01[SOH] Framing Error
+2.8975,X,h01[SOH] Framing Error
+2.9,X,h01[SOH] Framing Error
+2.9025,X,h01[SOH] Framing Error
+2.905,X,h01[SOH] Framing Error
+2.9075,X,h01[SOH] Framing Error
+2.91,X,h01[SOH] Framing Error
+2.9125,X,h01[SOH] Framing Error
+2.915,X,h01[SOH] Framing Error
+2.9175,X,h01[SOH] Framing Error
+2.92,X,h01[SOH] Framing Error
+2.9225,X,h01[SOH] Framing Error
+2.925,X,h01[SOH] Framing Error
+2.9275,X,h01[SOH] Framing Error
+2.93,X,h01[SOH] Framing Error
+2.9325,X,h01[SOH] Framing Error
+2.935,X,h01[SOH] Framing Error
+2.9375,X,h01[SOH] Framing Error
+2.94,X,h01[SOH] Framing Error
+2.9425,X,h01[SOH] Framing Error
+2.945,X,h01[SOH] Framing Error
+2.9475,X,h01[SOH] Framing Error
+2.95,X,h01[SOH] Framing Error
+2.9525,X,h01[SOH] Framing Error
+2.955,X,h01[SOH] Framing Error
+2.9575,X,h01[SOH] Framing Error
+2.96,X,h01[SOH] Framing Error
+2.9625,X,h01[SOH] Framing Error
+2.965,X,h01[SOH] Framing Error
+2.9675,X,h01[SOH] Framing Error
+2.97,X,h01[SOH] Framing Error
+2.9725,X,h01[SOH] Framing Error
+2.975,X,h01[SOH] Framing Error
+2.9775,X,h01[SOH] Framing Error
+2.98,X,h01[SOH] Framing Error
+2.9825,X,h01[SOH] Framing Error
+2.985,X,h01[SOH] Framing Error
+2.9875,X,h01[SOH] Framing Error
+2.99,X,h01[SOH] Framing Error
+2.9925,X,h01[SOH] Framing Error
+2.995,X,h01[SOH] Framing Error
+2.9975,X,h01[SOH] Framing Error
+3,X,h01[SOH] Framing Error
+3.0025,X,h01[SOH] Framing Error
+3.005,X,h01[SOH] Framing Error
+3.0075,X,h01[SOH] Framing Error
+3.01,X,h01[SOH] Framing Error
+3.0125,X,h01[SOH] Framing Error
+3.015,X,h01[SOH] Framing Error
+3.0175,X,h01[SOH] Framing Error
+3.02,X,h01[SOH] Framing Error
+3.0225,X,h01[SOH] Framing Error
+3.025,X,h01[SOH] Framing Error
+3.0275,X,h01[SOH] Framing Error
+3.03,X,h01[SOH] Framing Error
+3.0325,X,h01[SOH] Framing Error
+3.035,X,h01[SOH] Framing Error
+3.0375,X,h01[SOH] Framing Error
+3.04,X,h01[SOH] Framing Error
+3.0425,X,h01[SOH] Framing Error
+3.045,X,h01[SOH] Framing Error
+3.0475,X,h01[SOH] Framing Error
+3.05,X,h01[SOH] Framing Error
+3.0525,X,h01[SOH] Framing Error
+3.055,X,h01[SOH] Framing Error
+3.0575,X,h01[SOH] Framing Error
+3.06,X,h01[SOH] Framing Error
+3.0625,X,h01[SOH] Framing Error
+3.065,X,h01[SOH] Framing Error
+3.0675,X,h01[SOH] Framing Error
+3.07,X,h01[SOH] Framing Error
+3.0725,X,h01[SOH] Framing Error
+3.075,X,h01[SOH] Framing Error
+3.0775,X,h01[SOH] Framing Error
+3.08,X,h01[SOH] Framing Error
+3.0825,X,h01[SOH] Framing Error
+3.085,X,h01[SOH] Framing Error
+3.0875,X,h01[SOH] Framing Error
+3.09,X,h01[SOH] Framing Error
+3.0925,X,h01[SOH] Framing Error
+3.095,X,h01[SOH] Framing Error
+3.0975,X,h01[SOH] Framing Error
+3.1,X,h01[SOH] Framing Error
+3.1025,X,h01[SOH] Framing Error
+3.105,X,h01[SOH] Framing Error
+3.1075,X,h01[SOH] Framing Error
+3.11,X,h01[SOH] Framing Error
+3.1125,X,h01[SOH] Framing Error
+3.115,X,h01[SOH] Framing Error
+3.1175,X,h01[SOH] Framing Error
+3.12,X,h01[SOH] Framing Error
+3.1225,X,h01[SOH] Framing Error
+3.125,X,X
+3.1275,X,X
+3.13,X,X
+3.1325,X,X
+3.135,X,X
+3.1375,X,X
+3.14,X,X
+3.1425,X,X
+3.145,X,X
+3.1475,X,X
+3.15,X,X
+3.1525,X,X
+3.155,X,X
+3.1575,X,X
+3.16,X,X
+3.1625,X,X
+3.165,X,X
+3.1675,X,X
+3.17,X,X
+3.1725,X,X
+3.175,X,X
+3.1775,X,X
+3.18,X,X
+3.1825,X,X
+3.185,X,X
+3.1875,X,X
+3.19,X,X
+3.1925,X,X
+3.195,X,X
+3.1975,X,X
+3.2,X,X
+3.2025,X,X
+3.205,X,X
+3.2075,X,X
+3.21,X,X
+3.2125,X,X
+3.215,X,X
+3.2175,X,X
+3.22,X,X
+3.2225,X,X
+3.225,X,X
+3.2275,X,X
+3.23,X,X
+3.2325,X,X
+3.235,X,X
+3.2375,X,X
+3.24,X,X
+3.2425,X,X
+3.245,X,X
+3.2475,X,X
+3.25,X,X
+3.2525,X,X
+3.255,X,X
+3.2575,X,X
+3.26,X,X
+3.2625,X,X
+3.265,X,X
+3.2675,X,X
+3.27,X,X
+3.2725,X,X
+3.275,X,X
+3.2775,X,X
+3.28,X,X
+3.2825,X,X
+3.285,X,X
+3.2875,X,X
+3.29,X,X
+3.2925,h42[B],X
+3.295,h42[B],X
+3.2975,h42[B],X
+3.3,h42[B],X
+3.3025,h42[B],X
+3.305,h42[B],X
+3.3075,h42[B],X
+3.31,h42[B],X
+3.3125,h42[B],X
+3.315,h42[B],X
+3.3175,h42[B],X
+3.32,h42[B],X
+3.3225,h42[B],X
+3.325,h42[B],X
+3.3275,h42[B],X
+3.33,h42[B],X
+3.3325,h42[B],X
+3.335,h42[B],X
+3.3375,h42[B],X
+3.34,h42[B],X
+3.3425,h42[B],X
+3.345,h42[B],X
+3.3475,h42[B],X
+3.35,h42[B],X
+3.3525,h42[B],X
+3.355,h42[B],X
+3.3575,h42[B],X
+3.36,h42[B],X
+3.3625,h42[B],X
+3.365,h42[B],X
+3.3675,h42[B],X
+3.37,h42[B],X
+3.3725,h42[B],X
+3.375,h42[B],X
+3.3775,h42[B],X
+3.38,h42[B],X
+3.3825,h42[B],X
+3.385,h42[B],X
+3.3875,h42[B],X
+3.39,h42[B],X
+3.3925,h42[B],X
+3.395,h42[B],hAF[¯] Framing Error
+3.3975,h42[B],hAF[¯] Framing Error
+3.4,h42[B],hAF[¯] Framing Error
+3.4025,h42[B],hAF[¯] Framing Error
+3.405,h42[B],hAF[¯] Framing Error
+3.4075,h42[B],hAF[¯] Framing Error
+3.41,h42[B],hAF[¯] Framing Error
+3.4125,h42[B],hAF[¯] Framing Error
+3.415,h42[B],hAF[¯] Framing Error
+3.4175,h42[B],hAF[¯] Framing Error
+3.42,h42[B],hAF[¯] Framing Error
+3.4225,h42[B],hAF[¯] Framing Error
+3.425,h42[B],hAF[¯] Framing Error
+3.4275,h42[B],hAF[¯] Framing Error
+3.43,h42[B],hAF[¯] Framing Error
+3.4325,h42[B],hAF[¯] Framing Error
+3.435,h42[B],hAF[¯] Framing Error
+3.4375,h42[B],hAF[¯] Framing Error
+3.44,h42[B],hAF[¯] Framing Error
+3.4425,h42[B],hAF[¯] Framing Error
+3.445,h42[B],hAF[¯] Framing Error
+3.4475,h42[B],hAF[¯] Framing Error
+3.45,h42[B],hAF[¯] Framing Error
+3.4525,h42[B],hAF[¯] Framing Error
+3.455,h42[B],hAF[¯] Framing Error
+3.4575,h42[B],hAF[¯] Framing Error
+3.46,h42[B],hAF[¯] Framing Error
+3.4625,h42[B],hAF[¯] Framing Error
+3.465,h42[B],hAF[¯] Framing Error
+3.4675,h42[B],hAF[¯] Framing Error
+3.47,h42[B],hAF[¯] Framing Error
+3.4725,h42[B],hAF[¯] Framing Error
+3.475,h42[B],hAF[¯] Framing Error
+3.4775,h42[B],hAF[¯] Framing Error
+3.48,h42[B],hAF[¯] Framing Error
+3.4825,h42[B],hAF[¯] Framing Error
+3.485,h42[B],hAF[¯] Framing Error
+3.4875,h42[B],hAF[¯] Framing Error
+3.49,h42[B],hAF[¯] Framing Error
+3.4925,h42[B],hAF[¯] Framing Error
+3.495,h42[B],hAF[¯] Framing Error
+3.4975,h42[B],hAF[¯] Framing Error
+3.5,h42[B],hAF[¯] Framing Error
+3.5025,h42[B],hAF[¯] Framing Error
+3.505,h42[B],hAF[¯] Framing Error
+3.5075,h42[B],hAF[¯] Framing Error
+3.51,h42[B],hAF[¯] Framing Error
+3.5125,h42[B],hAF[¯] Framing Error
+3.515,h42[B],hAF[¯] Framing Error
+3.5175,h42[B],hAF[¯] Framing Error
+3.52,h42[B],hAF[¯] Framing Error
+3.5225,h42[B],hAF[¯] Framing Error
+3.525,h42[B],hAF[¯] Framing Error
+3.5275,h42[B],hAF[¯] Framing Error
+3.53,h42[B],hAF[¯] Framing Error
+3.5325,h42[B],hAF[¯] Framing Error
+3.535,h42[B],hAF[¯] Framing Error
+3.5375,h42[B],hAF[¯] Framing Error
+3.54,h42[B],hAF[¯] Framing Error
+3.5425,h42[B],hAF[¯] Framing Error
+3.545,h42[B],hAF[¯] Framing Error
+3.5475,h42[B],hAF[¯] Framing Error
+3.55,h42[B],hAF[¯] Framing Error
+3.5525,h42[B],hAF[¯] Framing Error
+3.555,h42[B],hAF[¯] Framing Error
+3.5575,h42[B],hAF[¯] Framing Error
+3.56,h42[B],hAF[¯] Framing Error
+3.5625,h42[B],hAF[¯] Framing Error
+3.565,h42[B],hAF[¯] Framing Error
+3.5675,h42[B],hAF[¯] Framing Error
+3.57,h42[B],hAF[¯] Framing Error
+3.5725,h42[B],hAF[¯] Framing Error
+3.575,h42[B],hAF[¯] Framing Error
+3.5775,h42[B],hAF[¯] Framing Error
+3.58,h42[B],hAF[¯] Framing Error
+3.5825,h42[B],hAF[¯] Framing Error
+3.585,h42[B],hAF[¯] Framing Error
+3.5875,h42[B],hAF[¯] Framing Error
+3.59,h42[B],hAF[¯] Framing Error
+3.5925,h42[B],hAF[¯] Framing Error
+3.595,h42[B],hAF[¯] Framing Error
+3.5975,h42[B],hAF[¯] Framing Error
+3.6,h42[B],hAF[¯] Framing Error
+3.6025,h42[B],hAF[¯] Framing Error
+3.605,h42[B],hAF[¯] Framing Error
+3.6075,h42[B],hAF[¯] Framing Error
+3.61,h42[B],hAF[¯] Framing Error
+3.6125,h42[B],hAF[¯] Framing Error
+3.615,h42[B],hAF[¯] Framing Error
+3.6175,h42[B],hAF[¯] Framing Error
+3.62,h42[B],hAF[¯] Framing Error
+3.6225,h42[B],hAF[¯] Framing Error
+3.625,h42[B],hAF[¯] Framing Error
+3.6275,h42[B],hAF[¯] Framing Error
+3.63,h42[B],hAF[¯] Framing Error
+3.6325,h42[B],hAF[¯] Framing Error
+3.635,h42[B],hAF[¯] Framing Error
+3.6375,h42[B],hAF[¯] Framing Error
+3.64,h42[B],hAF[¯] Framing Error
+3.6425,h42[B],hAF[¯] Framing Error
+3.645,h42[B],hAF[¯] Framing Error
+3.6475,h42[B],hAF[¯] Framing Error
+3.65,h42[B],hAF[¯] Framing Error
+3.6525,h42[B],hAF[¯] Framing Error
+3.655,h42[B],hAF[¯] Framing Error
+3.6575,h42[B],hAF[¯] Framing Error
+3.66,h42[B],hAF[¯] Framing Error
+3.6625,h42[B],hAF[¯] Framing Error
+3.665,h42[B],hAF[¯] Framing Error
+3.6675,h42[B],hAF[¯] Framing Error
+3.67,h42[B],hAF[¯] Framing Error
+3.6725,h42[B],hAF[¯] Framing Error
+3.675,h42[B],hAF[¯] Framing Error
+3.6775,h42[B],hAF[¯] Framing Error
+3.68,h42[B],hAF[¯] Framing Error
+3.6825,h42[B],hAF[¯] Framing Error
+3.685,h42[B],hAF[¯] Framing Error
+3.6875,h42[B],hAF[¯] Framing Error
+3.69,h42[B],hAF[¯] Framing Error
+3.6925,h42[B],hAF[¯] Framing Error
+3.695,h42[B],hAF[¯] Framing Error
+3.6975,h42[B],hAF[¯] Framing Error
+3.7,h42[B],hAF[¯] Framing Error
+3.7025,h42[B],hAF[¯] Framing Error
+3.705,h42[B],hAF[¯] Framing Error
+3.7075,h42[B],hAF[¯] Framing Error
+3.71,h42[B],hAF[¯] Framing Error
+3.7125,h42[B],hAF[¯] Framing Error
+3.715,h42[B],hAF[¯] Framing Error
+3.7175,h42[B],hAF[¯] Framing Error
+3.72,h42[B],hAF[¯] Framing Error
+3.7225,h42[B],hAF[¯] Framing Error
+3.725,h42[B],hAF[¯] Framing Error
+3.7275,h42[B],hAF[¯] Framing Error
+3.73,h42[B],hAF[¯] Framing Error
+3.7325,h42[B],hAF[¯] Framing Error
+3.735,h42[B],hAF[¯] Framing Error
+3.7375,h42[B],hAF[¯] Framing Error
+3.74,h42[B],hAF[¯] Framing Error
+3.7425,h42[B],hAF[¯] Framing Error
+3.745,h42[B],hAF[¯] Framing Error
+3.7475,h42[B],hAF[¯] Framing Error
+3.75,h42[B],hAF[¯] Framing Error
+3.7525,h42[B],hAF[¯] Framing Error
+3.755,h42[B],hAF[¯] Framing Error
+3.7575,h42[B],hAF[¯] Framing Error
+3.76,h42[B],hAF[¯] Framing Error
+3.7625,h42[B],hAF[¯] Framing Error
+3.765,h42[B],hAF[¯] Framing Error
+3.7675,h42[B],hAF[¯] Framing Error
+3.77,X,hAF[¯] Framing Error
+3.7725,X,hAF[¯] Framing Error
+3.775,X,hAF[¯] Framing Error
+3.7775,X,hAF[¯] Framing Error
+3.78,X,hAF[¯] Framing Error
+3.7825,X,hAF[¯] Framing Error
+3.785,X,hAF[¯] Framing Error
+3.7875,X,hAF[¯] Framing Error
+3.79,X,hAF[¯] Framing Error
+3.7925,X,hAF[¯] Framing Error
+3.795,h4F[O],hAF[¯] Framing Error
+3.7975,h4F[O],hAF[¯] Framing Error
+3.8,h4F[O],hAF[¯] Framing Error
+3.8025,h4F[O],hAF[¯] Framing Error
+3.805,h4F[O],hAF[¯] Framing Error
+3.8075,h4F[O],hAF[¯] Framing Error
+3.81,h4F[O],hAF[¯] Framing Error
+3.8125,h4F[O],hAF[¯] Framing Error
+3.815,h4F[O],hAF[¯] Framing Error
+3.8175,h4F[O],hAF[¯] Framing Error
+3.82,h4F[O],hAF[¯] Framing Error
+3.8225,h4F[O],hAF[¯] Framing Error
+3.825,h4F[O],hAF[¯] Framing Error
+3.8275,h4F[O],hAF[¯] Framing Error
+3.83,h4F[O],hAF[¯] Framing Error
+3.8325,h4F[O],hAF[¯] Framing Error
+3.835,h4F[O],hAF[¯] Framing Error
+3.8375,h4F[O],hAF[¯] Framing Error
+3.84,h4F[O],hAF[¯] Framing Error
+3.8425,h4F[O],hAF[¯] Framing Error
+3.845,h4F[O],hAF[¯] Framing Error
+3.8475,h4F[O],hAF[¯] Framing Error
+3.85,h4F[O],hAF[¯] Framing Error
+3.8525,h4F[O],hAF[¯] Framing Error
+3.855,h4F[O],hAF[¯] Framing Error
+3.8575,h4F[O],hAF[¯] Framing Error
+3.86,h4F[O],hAF[¯] Framing Error
+3.8625,h4F[O],hAF[¯] Framing Error
+3.865,h4F[O],hAF[¯] Framing Error
+3.8675,h4F[O],hAF[¯] Framing Error
+3.87,h4F[O],hAF[¯] Framing Error
+3.8725,h4F[O],X
+3.875,h4F[O],X
+3.8775,h4F[O],X
+3.88,h4F[O],X
+3.8825,h4F[O],X
+3.885,h4F[O],X
+3.8875,h4F[O],X
+3.89,h4F[O],X
+3.8925,h4F[O],X
+3.895,h4F[O],X
+3.8975,h4F[O],X
+3.9,h4F[O],X
+3.9025,h4F[O],X
+3.905,h4F[O],X
+3.9075,h4F[O],X
+3.91,h4F[O],X
+3.9125,h4F[O],X
+3.915,h4F[O],X
+3.9175,h4F[O],X
+3.92,h4F[O],X
+3.9225,h4F[O],X
+3.925,h4F[O],X
+3.9275,h4F[O],X
+3.93,h4F[O],X
+3.9325,h4F[O],X
+3.935,h4F[O],X
+3.9375,h4F[O],X
+3.94,h4F[O],X
+3.9425,h4F[O],X
+3.945,h4F[O],X
+3.9475,h4F[O],X
+3.95,h4F[O],X
+3.9525,h4F[O],X
+3.955,h4F[O],X
+3.9575,h4F[O],X
+3.96,h4F[O],X
+3.9625,h4F[O],X
+3.965,h4F[O],X
+3.9675,h4F[O],X
+3.97,h4F[O],X
+3.9725,h4F[O],X
+3.975,h4F[O],X
+3.9775,h4F[O],X
+3.98,h4F[O],X
+3.9825,h4F[O],X
+3.985,h4F[O],X
+3.9875,h4F[O],X
+3.99,h4F[O],X
+3.9925,h4F[O],X
+3.995,h4F[O],X
+3.9975,h4F[O],X
+4,h4F[O],X
+4.0025,h4F[O],X
+4.005,h4F[O],X
+4.0075,h4F[O],X
+4.01,h4F[O],X
+4.0125,h4F[O],X
+4.015,h4F[O],X
+4.0175,h4F[O],X
+4.02,h4F[O],X
+4.0225,h4F[O],X
+4.025,h4F[O],X
+4.0275,h4F[O],X
+4.03,h4F[O],X
+4.0325,h4F[O],X
+4.035,h4F[O],X
+4.0375,h4F[O],X
+4.04,h4F[O],X
+4.0425,h4F[O],X
+4.045,h4F[O],X
+4.0475,h4F[O],X
+4.05,h4F[O],X
+4.0525,h4F[O],X
+4.055,h4F[O],X
+4.0575,h4F[O],X
+4.06,h4F[O],X
+4.0625,h4F[O],X
+4.065,h4F[O],X
+4.0675,h4F[O],X
+4.07,h4F[O],X
+4.0725,h4F[O],X
+4.075,h4F[O],X
+4.0775,h4F[O],X
+4.08,h4F[O],X
+4.0825,h4F[O],X
+4.085,h4F[O],X
+4.0875,h4F[O],X
+4.09,h4F[O],X
+4.0925,h4F[O],X
+4.095,h4F[O],X
+4.0975,h4F[O],X
+4.1,h4F[O],X
+4.1025,h4F[O],X
+4.105,h4F[O],X
+4.1075,h4F[O],X
+4.11,h4F[O],X
+4.1125,h4F[O],X
+4.115,h4F[O],X
+4.1175,h4F[O],X
+4.12,h4F[O],X
+4.1225,h4F[O],X
+4.125,h4F[O],X
+4.1275,h4F[O],X
+4.13,h4F[O],X
+4.1325,h4F[O],X
+4.135,h4F[O],X
+4.1375,h4F[O],X
+4.14,h4F[O],hC5[Å]
+4.1425,h4F[O],hC5[Å]
+4.145,h4F[O],hC5[Å]
+4.1475,h4F[O],hC5[Å]
+4.15,h4F[O],hC5[Å]
+4.1525,h4F[O],hC5[Å]
+4.155,h4F[O],hC5[Å]
+4.1575,h4F[O],hC5[Å]
+4.16,h4F[O],hC5[Å]
+4.1625,h4F[O],hC5[Å]
+4.165,h4F[O],hC5[Å]
+4.1675,h4F[O],hC5[Å]
+4.17,h4F[O],hC5[Å]
+4.1725,h4F[O],hC5[Å]
+4.175,h4F[O],hC5[Å]
+4.1775,h4F[O],hC5[Å]
+4.18,h4F[O],hC5[Å]
+4.1825,h4F[O],hC5[Å]
+4.185,h4F[O],hC5[Å]
+4.1875,h4F[O],hC5[Å]
+4.19,h4F[O],hC5[Å]
+4.1925,h4F[O],hC5[Å]
+4.195,h4F[O],hC5[Å]
+4.1975,h4F[O],hC5[Å]
+4.2,h4F[O],hC5[Å]
+4.2025,h4F[O],hC5[Å]
+4.205,h4F[O],hC5[Å]
+4.2075,h4F[O],hC5[Å]
+4.21,h4F[O],hC5[Å]
+4.2125,h4F[O],hC5[Å]
+4.215,h4F[O],hC5[Å]
+4.2175,h4F[O],hC5[Å]
+4.22,h4F[O],hC5[Å]
+4.2225,h4F[O],hC5[Å]
+4.225,h4F[O],hC5[Å]
+4.2275,h4F[O],hC5[Å]
+4.23,h4F[O],hC5[Å]
+4.2325,h4F[O],hC5[Å]
+4.235,h4F[O],hC5[Å]
+4.2375,h4F[O],hC5[Å]
+4.24,h4F[O],hC5[Å]
+4.2425,h4F[O],hC5[Å]
+4.245,h4F[O],hC5[Å]
+4.2475,h4F[O],hC5[Å]
+4.25,h4F[O],hC5[Å]
+4.2525,h4F[O],hC5[Å]
+4.255,h4F[O],hC5[Å]
+4.2575,h4F[O],hC5[Å]
+4.26,h4F[O],hC5[Å]
+4.2625,h4F[O],hC5[Å]
+4.265,h4F[O],hC5[Å]
+4.2675,h4F[O],hC5[Å]
+4.27,h4F[O],hC5[Å]
+4.2725,X,hC5[Å]
+4.275,X,hC5[Å]
+4.2775,X,hC5[Å]
+4.28,X,hC5[Å]
+4.2825,X,hC5[Å]
+4.285,X,hC5[Å]
+4.2875,X,hC5[Å]
+4.29,X,hC5[Å]
+4.2925,X,hC5[Å]
+4.295,X,hC5[Å]
+4.2975,h47[G],hC5[Å]
+4.3,h47[G],hC5[Å]
+4.3025,h47[G],hC5[Å]
+4.305,h47[G],hC5[Å]
+4.3075,h47[G],hC5[Å]
+4.31,h47[G],hC5[Å]
+4.3125,h47[G],hC5[Å]
+4.315,h47[G],hC5[Å]
+4.3175,h47[G],hC5[Å]
+4.32,h47[G],hC5[Å]
+4.3225,h47[G],hC5[Å]
+4.325,h47[G],hC5[Å]
+4.3275,h47[G],hC5[Å]
+4.33,h47[G],hC5[Å]
+4.3325,h47[G],hC5[Å]
+4.335,h47[G],hC5[Å]
+4.3375,h47[G],hC5[Å]
+4.34,h47[G],hC5[Å]
+4.3425,h47[G],hC5[Å]
+4.345,h47[G],hC5[Å]
+4.3475,h47[G],hC5[Å]
+4.35,h47[G],hC5[Å]
+4.3525,h47[G],hC5[Å]
+4.355,h47[G],hC5[Å]
+4.3575,h47[G],hC5[Å]
+4.36,h47[G],hC5[Å]
+4.3625,h47[G],hC5[Å]
+4.365,h47[G],hC5[Å]
+4.3675,h47[G],hC5[Å]
+4.37,h47[G],hC5[Å]
+4.3725,h47[G],hC5[Å]
+4.375,h47[G],hC5[Å]
+4.3775,h47[G],hC5[Å]
+4.38,h47[G],hC5[Å]
+4.3825,h47[G],hC5[Å]
+4.385,h47[G],hC5[Å]
+4.3875,h47[G],hC5[Å]
+4.39,h47[G],hC5[Å]
+4.3925,h47[G],hC5[Å]
+4.395,h47[G],hC5[Å]
+4.3975,h47[G],hC5[Å]
+4.4,h47[G],hC5[Å]
+4.4025,h47[G],hC5[Å]
+4.405,h47[G],hC5[Å]
+4.4075,h47[G],hC5[Å]
+4.41,h47[G],hC5[Å]
+4.4125,h47[G],hC5[Å]
+4.415,h47[G],hC5[Å]
+4.4175,h47[G],hC5[Å]
+4.42,h47[G],hC5[Å]
+4.4225,h47[G],hC5[Å]
+4.425,h47[G],hC5[Å]
+4.4275,h47[G],hC5[Å]
+4.43,h47[G],hC5[Å]
+4.4325,h47[G],hC5[Å]
+4.435,h47[G],hC5[Å]
+4.4375,h47[G],hC5[Å]
+4.44,h47[G],hC5[Å]
+4.4425,h47[G],hC5[Å]
+4.445,h47[G],hC5[Å]
+4.4475,h47[G],hC5[Å]
+4.45,h47[G],hC5[Å]
+4.4525,h47[G],hC5[Å]
+4.455,h47[G],hC5[Å]
+4.4575,h47[G],hC5[Å]
+4.46,h47[G],hC5[Å]
+4.4625,h47[G],hC5[Å]
+4.465,h47[G],hC5[Å]
+4.4675,h47[G],hC5[Å]
+4.47,h47[G],hC5[Å]
+4.4725,h47[G],hC5[Å]
+4.475,h47[G],hC5[Å]
+4.4775,h47[G],hC5[Å]
+4.48,h47[G],hC5[Å]
+4.4825,h47[G],hC5[Å]
+4.485,h47[G],hC5[Å]
+4.4875,h47[G],hC5[Å]
+4.49,h47[G],hC5[Å]
+4.4925,h47[G],hC5[Å]
+4.495,h47[G],hC5[Å]
+4.4975,h47[G],hC5[Å]
+4.5,h47[G],hC5[Å]
+4.5025,h47[G],hC5[Å]
+4.505,h47[G],hC5[Å]
+4.5075,h47[G],hC5[Å]
+4.51,h47[G],hC5[Å]
+4.5125,h47[G],hC5[Å]
+4.515,h47[G],hC5[Å]
+4.5175,h47[G],hC5[Å]
+4.52,h47[G],hC5[Å]
+4.5225,h47[G],hC5[Å]
+4.525,h47[G],hC5[Å]
+4.5275,h47[G],hC5[Å]
+4.53,h47[G],hC5[Å]
+4.5325,h47[G],hC5[Å]
+4.535,h47[G],hC5[Å]
+4.5375,h47[G],hC5[Å]
+4.54,h47[G],hC5[Å]
+4.5425,h47[G],hC5[Å]
+4.545,h47[G],hC5[Å]
+4.5475,h47[G],hC5[Å]
+4.55,h47[G],hC5[Å]
+4.5525,h47[G],hC5[Å]
+4.555,h47[G],hC5[Å]
+4.5575,h47[G],hC5[Å]
+4.56,h47[G],hC5[Å]
+4.5625,h47[G],hC5[Å]
+4.565,h47[G],hC5[Å]
+4.5675,h47[G],hC5[Å]
+4.57,h47[G],hC5[Å]
+4.5725,h47[G],hC5[Å]
+4.575,h47[G],hC5[Å]
+4.5775,h47[G],hC5[Å]
+4.58,h47[G],hC5[Å]
+4.5825,h47[G],hC5[Å]
+4.585,h47[G],hC5[Å]
+4.5875,h47[G],hC5[Å]
+4.59,h47[G],hC5[Å]
+4.5925,h47[G],hC5[Å]
+4.595,h47[G],hC5[Å]
+4.5975,h47[G],hC5[Å]
+4.6,h47[G],hC5[Å]
+4.6025,h47[G],hC5[Å]
+4.605,h47[G],hC5[Å]
+4.6075,h47[G],hC5[Å]
+4.61,h47[G],hC5[Å]
+4.6125,h47[G],hC5[Å]
+4.615,h47[G],hC5[Å]
+4.6175,h47[G],X
+4.62,h47[G],X
+4.6225,h47[G],X
+4.625,h47[G],X
+4.6275,h47[G],X
+4.63,h47[G],X
+4.6325,h47[G],X
+4.635,h47[G],X
+4.6375,h47[G],h85
+4.64,h47[G],h85
+4.6425,h47[G],h85
+4.645,h47[G],h85
+4.6475,h47[G],h85
+4.65,h47[G],h85
+4.6525,h47[G],h85
+4.655,h47[G],h85
+4.6575,h47[G],h85
+4.66,h47[G],h85
+4.6625,h47[G],h85
+4.665,h47[G],h85
+4.6675,h47[G],h85
+4.67,h47[G],h85
+4.6725,h47[G],h85
+4.675,h47[G],h85
+4.6775,h47[G],h85
+4.68,h47[G],h85
+4.6825,h47[G],h85
+4.685,h47[G],h85
+4.6875,h47[G],h85
+4.69,h47[G],h85
+4.6925,h47[G],h85
+4.695,h47[G],h85
+4.6975,h47[G],h85
+4.7,h47[G],h85
+4.7025,h47[G],h85
+4.705,h47[G],h85
+4.7075,h47[G],h85
+4.71,h47[G],h85
+4.7125,h47[G],h85
+4.715,h47[G],h85
+4.7175,h47[G],h85
+4.72,h47[G],h85
+4.7225,h47[G],h85
+4.725,h47[G],h85
+4.7275,h47[G],h85
+4.73,h47[G],h85
+4.7325,h47[G],h85
+4.735,h47[G],h85
+4.7375,h47[G],h85
+4.74,h47[G],h85
+4.7425,h47[G],h85
+4.745,h47[G],h85
+4.7475,h47[G],h85
+4.75,h47[G],h85
+4.7525,h47[G],h85
+4.755,h47[G],h85
+4.7575,h47[G],h85
+4.76,h47[G],h85
+4.7625,h47[G],h85
+4.765,h47[G],h85
+4.7675,h47[G],h85
+4.77,h47[G],h85
+4.7725,h47[G],h85
+4.775,X,h85
+4.7775,X,h85
+4.78,X,h85
+4.7825,X,h85
+4.785,X,h85
+4.7875,X,h85
+4.79,X,h85
+4.7925,h4F[O],h85
+4.795,h4F[O],h85
+4.7975,h4F[O],h85
+4.8,h4F[O],h85
+4.8025,h4F[O],h85
+4.805,h4F[O],h85
+4.8075,h4F[O],h85
+4.81,h4F[O],h85
+4.8125,h4F[O],h85
+4.815,h4F[O],h85
+4.8175,h4F[O],h85
+4.82,h4F[O],h85
+4.8225,h4F[O],h85
+4.825,h4F[O],h85
+4.8275,h4F[O],h85
+4.83,h4F[O],h85
+4.8325,h4F[O],h85
+4.835,h4F[O],h85
+4.8375,h4F[O],h85
+4.84,h4F[O],h85
+4.8425,h4F[O],h85
+4.845,h4F[O],h85
+4.8475,h4F[O],h85
+4.85,h4F[O],h85
+4.8525,h4F[O],h85
+4.855,h4F[O],h85
+4.8575,h4F[O],h85
+4.86,h4F[O],h85
+4.8625,h4F[O],h85
+4.865,h4F[O],h85
+4.8675,h4F[O],h85
+4.87,h4F[O],h85
+4.8725,h4F[O],h85
+4.875,h4F[O],h85
+4.8775,h4F[O],h85
+4.88,h4F[O],h85
+4.8825,h4F[O],h85
+4.885,h4F[O],h85
+4.8875,h4F[O],h85
+4.89,h4F[O],h85
+4.8925,h4F[O],h85
+4.895,h4F[O],h85
+4.8975,h4F[O],h85
+4.9,h4F[O],h85
+4.9025,h4F[O],h85
+4.905,h4F[O],h85
+4.9075,h4F[O],h85
+4.91,h4F[O],h85
+4.9125,h4F[O],h85
+4.915,h4F[O],h85
+4.9175,h4F[O],h85
+4.92,h4F[O],h85
+4.9225,h4F[O],h85
+4.925,h4F[O],h85
+4.9275,h4F[O],h85
+4.93,h4F[O],h85
+4.9325,h4F[O],h85
+4.935,h4F[O],h85
+4.9375,h4F[O],h85
+4.94,h4F[O],h85
+4.9425,h4F[O],h85
+4.945,h4F[O],h85
+4.9475,h4F[O],h85
+4.95,h4F[O],h85
+4.9525,h4F[O],h85
+4.955,h4F[O],h85
+4.9575,h4F[O],h85
+4.96,h4F[O],h85
+4.9625,h4F[O],h85
+4.965,h4F[O],h85
+4.9675,h4F[O],h85
+4.97,h4F[O],h85
+4.9725,h4F[O],h85
+4.975,h4F[O],h85
+4.9775,h4F[O],h85
+4.98,h4F[O],h85
+4.9825,h4F[O],h85
+4.985,h4F[O],h85
+4.9875,h4F[O],h85
+4.99,h4F[O],h85
+4.9925,h4F[O],h85
+4.995,h4F[O],h85
+4.9975,h4F[O],h85
+5,h4F[O],h85
+5.0025,h4F[O],h85
+5.005,h4F[O],h85
+5.0075,h4F[O],h85
+5.01,h4F[O],h85
+5.0125,h4F[O],h85
+5.015,h4F[O],h85
+5.0175,h4F[O],h85
+5.02,h4F[O],h85
+5.0225,h4F[O],h85
+5.025,h4F[O],h85
+5.0275,h4F[O],h85
+5.03,h4F[O],h85
+5.0325,h4F[O],h85
+5.035,h4F[O],h85
+5.0375,h4F[O],h85
+5.04,h4F[O],h85
+5.0425,h4F[O],h85
+5.045,h4F[O],h85
+5.0475,h4F[O],h85
+5.05,h4F[O],h85
+5.0525,h4F[O],h85
+5.055,h4F[O],h85
+5.0575,h4F[O],h85
+5.06,h4F[O],h85
+5.0625,h4F[O],h85
+5.065,h4F[O],h85
+5.0675,h4F[O],h85
+5.07,h4F[O],h85
+5.0725,h4F[O],h85
+5.075,h4F[O],h85
+5.0775,h4F[O],h85
+5.08,h4F[O],h85
+5.0825,h4F[O],h85
+5.085,h4F[O],h85
+5.0875,h4F[O],h85
+5.09,h4F[O],h85
+5.0925,h4F[O],h85
+5.095,h4F[O],h85
+5.0975,h4F[O],h85
+5.1,h4F[O],h85
+5.1025,h4F[O],h85
+5.105,h4F[O],h85
+5.1075,h4F[O],h85
+5.11,h4F[O],h85
+5.1125,h4F[O],h85
+5.115,h4F[O],X
+5.1175,h4F[O],X
+5.12,h4F[O],X
+5.1225,h4F[O],X
+5.125,h4F[O],X
+5.1275,h4F[O],X
+5.13,h4F[O],X
+5.1325,h4F[O],X
+5.135,h4F[O],X
+5.1375,h4F[O],X
+5.14,h4F[O],h5D[]]
+5.1425,h4F[O],h5D[]]
+5.145,h4F[O],h5D[]]
+5.1475,h4F[O],h5D[]]
+5.15,h4F[O],h5D[]]
+5.1525,h4F[O],h5D[]]
+5.155,h4F[O],h5D[]]
+5.1575,h4F[O],h5D[]]
+5.16,h4F[O],h5D[]]
+5.1625,h4F[O],h5D[]]
+5.165,h4F[O],h5D[]]
+5.1675,h4F[O],h5D[]]
+5.17,h4F[O],h5D[]]
+5.1725,h4F[O],h5D[]]
+5.175,h4F[O],h5D[]]
+5.1775,h4F[O],h5D[]]
+5.18,h4F[O],h5D[]]
+5.1825,h4F[O],h5D[]]
+5.185,h4F[O],h5D[]]
+5.1875,h4F[O],h5D[]]
+5.19,h4F[O],h5D[]]
+5.1925,h4F[O],h5D[]]
+5.195,h4F[O],h5D[]]
+5.1975,h4F[O],h5D[]]
+5.2,h4F[O],h5D[]]
+5.2025,h4F[O],h5D[]]
+5.205,h4F[O],h5D[]]
+5.2075,h4F[O],h5D[]]
+5.21,h4F[O],h5D[]]
+5.2125,h4F[O],h5D[]]
+5.215,h4F[O],h5D[]]
+5.2175,h4F[O],h5D[]]
+5.22,h4F[O],h5D[]]
+5.2225,h4F[O],h5D[]]
+5.225,h4F[O],h5D[]]
+5.2275,h4F[O],h5D[]]
+5.23,h4F[O],h5D[]]
+5.2325,h4F[O],h5D[]]
+5.235,h4F[O],h5D[]]
+5.2375,h4F[O],h5D[]]
+5.24,h4F[O],h5D[]]
+5.2425,h4F[O],h5D[]]
+5.245,h4F[O],h5D[]]
+5.2475,h4F[O],h5D[]]
+5.25,h4F[O],h5D[]]
+5.2525,h4F[O],h5D[]]
+5.255,h4F[O],h5D[]]
+5.2575,h4F[O],h5D[]]
+5.26,h4F[O],h5D[]]
+5.2625,h4F[O],h5D[]]
+5.265,h4F[O],h5D[]]
+5.2675,h4F[O],h5D[]]
+5.27,X,h5D[]]
+5.2725,X,h5D[]]
+5.275,X,h5D[]]
+5.2775,X,h5D[]]
+5.28,X,h5D[]]
+5.2825,X,h5D[]]
+5.285,X,h5D[]]
+5.2875,X,h5D[]]
+5.29,X,h5D[]]
+5.2925,X,h5D[]]
+5.295,h54[T],h5D[]]
+5.2975,h54[T],h5D[]]
+5.3,h54[T],h5D[]]
+5.3025,h54[T],h5D[]]
+5.305,h54[T],h5D[]]
+5.3075,h54[T],h5D[]]
+5.31,h54[T],h5D[]]
+5.3125,h54[T],h5D[]]
+5.315,h54[T],h5D[]]
+5.3175,h54[T],h5D[]]
+5.32,h54[T],h5D[]]
+5.3225,h54[T],h5D[]]
+5.325,h54[T],h5D[]]
+5.3275,h54[T],h5D[]]
+5.33,h54[T],h5D[]]
+5.3325,h54[T],h5D[]]
+5.335,h54[T],h5D[]]
+5.3375,h54[T],h5D[]]
+5.34,h54[T],h5D[]]
+5.3425,h54[T],h5D[]]
+5.345,h54[T],h5D[]]
+5.3475,h54[T],h5D[]]
+5.35,h54[T],h5D[]]
+5.3525,h54[T],h5D[]]
+5.355,h54[T],h5D[]]
+5.3575,h54[T],h5D[]]
+5.36,h54[T],h5D[]]
+5.3625,h54[T],h5D[]]
+5.365,h54[T],h5D[]]
+5.3675,h54[T],h5D[]]
+5.37,h54[T],h5D[]]
+5.3725,h54[T],h5D[]]
+5.375,h54[T],h5D[]]
+5.3775,h54[T],h5D[]]
+5.38,h54[T],h5D[]]
+5.3825,h54[T],h5D[]]
+5.385,h54[T],h5D[]]
+5.3875,h54[T],h5D[]]
+5.39,h54[T],h5D[]]
+5.3925,h54[T],h5D[]]
+5.395,h54[T],h5D[]]
+5.3975,h54[T],h5D[]]
+5.4,h54[T],h5D[]]
+5.4025,h54[T],h5D[]]
+5.405,h54[T],h5D[]]
+5.4075,h54[T],h5D[]]
+5.41,h54[T],h5D[]]
+5.4125,h54[T],h5D[]]
+5.415,h54[T],h5D[]]
+5.4175,h54[T],h5D[]]
+5.42,h54[T],h5D[]]
+5.4225,h54[T],h5D[]]
+5.425,h54[T],h5D[]]
+5.4275,h54[T],h5D[]]
+5.43,h54[T],h5D[]]
+5.4325,h54[T],h5D[]]
+5.435,h54[T],h5D[]]
+5.4375,h54[T],h5D[]]
+5.44,h54[T],h5D[]]
+5.4425,h54[T],h5D[]]
+5.445,h54[T],h5D[]]
+5.4475,h54[T],h5D[]]
+5.45,h54[T],h5D[]]
+5.4525,h54[T],h5D[]]
+5.455,h54[T],h5D[]]
+5.4575,h54[T],h5D[]]
+5.46,h54[T],h5D[]]
+5.4625,h54[T],h5D[]]
+5.465,h54[T],h5D[]]
+5.4675,h54[T],h5D[]]
+5.47,h54[T],h5D[]]
+5.4725,h54[T],h5D[]]
+5.475,h54[T],h5D[]]
+5.4775,h54[T],h5D[]]
+5.48,h54[T],h5D[]]
+5.4825,h54[T],h5D[]]
+5.485,h54[T],h5D[]]
+5.4875,h54[T],h5D[]]
+5.49,h54[T],h5D[]]
+5.4925,h54[T],h5D[]]
+5.495,h54[T],h5D[]]
+5.4975,h54[T],h5D[]]
+5.5,h54[T],h5D[]]
+5.5025,h54[T],h5D[]]
+5.505,h54[T],h5D[]]
+5.5075,h54[T],h5D[]]
+5.51,h54[T],h5D[]]
+5.5125,h54[T],h5D[]]
+5.515,h54[T],h5D[]]
+5.5175,h54[T],h5D[]]
+5.52,h54[T],h5D[]]
+5.5225,h54[T],h5D[]]
+5.525,h54[T],h5D[]]
+5.5275,h54[T],h5D[]]
+5.53,h54[T],h5D[]]
+5.5325,h54[T],h5D[]]
+5.535,h54[T],h5D[]]
+5.5375,h54[T],h5D[]]
+5.54,h54[T],h5D[]]
+5.5425,h54[T],h5D[]]
+5.545,h54[T],h5D[]]
+5.5475,h54[T],h5D[]]
+5.55,h54[T],h5D[]]
+5.5525,h54[T],h5D[]]
+5.555,h54[T],h5D[]]
+5.5575,h54[T],h5D[]]
+5.56,h54[T],h5D[]]
+5.5625,h54[T],h5D[]]
+5.565,h54[T],h5D[]]
+5.5675,h54[T],h5D[]]
+5.57,h54[T],h5D[]]
+5.5725,h54[T],h5D[]]
+5.575,h54[T],h5D[]]
+5.5775,h54[T],h5D[]]
+5.58,h54[T],h5D[]]
+5.5825,h54[T],h5D[]]
+5.585,h54[T],h5D[]]
+5.5875,h54[T],h5D[]]
+5.59,h54[T],h5D[]]
+5.5925,h54[T],h5D[]]
+5.595,h54[T],h5D[]]
+5.5975,h54[T],h5D[]]
+5.6,h54[T],h5D[]]
+5.6025,h54[T],h5D[]]
+5.605,h54[T],h5D[]]
+5.6075,h54[T],h5D[]]
+5.61,h54[T],h5D[]]
+5.6125,h54[T],h5D[]]
+5.615,h54[T],h5D[]]
+5.6175,h54[T],X
+5.62,h54[T],X
+5.6225,h54[T],X
+5.625,h54[T],X
+5.6275,h54[T],X
+5.63,h54[T],X
+5.6325,h54[T],X
+5.635,h54[T],X
+5.6375,h54[T],X
+5.64,h54[T],X
+5.6425,h54[T],X
+5.645,h54[T],X
+5.6475,h54[T],hF5[õ]
+5.65,h54[T],hF5[õ]
+5.6525,h54[T],hF5[õ]
+5.655,h54[T],hF5[õ]
+5.6575,h54[T],hF5[õ]
+5.66,h54[T],hF5[õ]
+5.6625,h54[T],hF5[õ]
+5.665,h54[T],hF5[õ]
+5.6675,h54[T],hF5[õ]
+5.67,h54[T],hF5[õ]
+5.6725,h54[T],hF5[õ]
+5.675,h54[T],hF5[õ]
+5.6775,h54[T],hF5[õ]
+5.68,h54[T],hF5[õ]
+5.6825,h54[T],hF5[õ]
+5.685,h54[T],hF5[õ]
+5.6875,h54[T],hF5[õ]
+5.69,h54[T],hF5[õ]
+5.6925,h54[T],hF5[õ]
+5.695,h54[T],hF5[õ]
+5.6975,h54[T],hF5[õ]
+5.7,h54[T],hF5[õ]
+5.7025,h54[T],hF5[õ]
+5.705,h54[T],hF5[õ]
+5.7075,h54[T],hF5[õ]
+5.71,h54[T],hF5[õ]
+5.7125,h54[T],hF5[õ]
+5.715,h54[T],hF5[õ]
+5.7175,h54[T],hF5[õ]
+5.72,h54[T],hF5[õ]
+5.7225,h54[T],hF5[õ]
+5.725,h54[T],hF5[õ]
+5.7275,h54[T],hF5[õ]
+5.73,h54[T],hF5[õ]
+5.7325,h54[T],hF5[õ]
+5.735,h54[T],hF5[õ]
+5.7375,h54[T],hF5[õ]
+5.74,h54[T],hF5[õ]
+5.7425,h54[T],hF5[õ]
+5.745,h54[T],hF5[õ]
+5.7475,h54[T],hF5[õ]
+5.75,h54[T],hF5[õ]
+5.7525,h54[T],hF5[õ]
+5.755,h54[T],hF5[õ]
+5.7575,h54[T],hF5[õ]
+5.76,h54[T],hF5[õ]
+5.7625,h54[T],hF5[õ]
+5.765,h54[T],hF5[õ]
+5.7675,h54[T],hF5[õ]
+5.77,h54[T],hF5[õ]
+5.7725,X,hF5[õ]
+5.775,X,hF5[õ]
+5.7775,X,hF5[õ]
+5.78,X,hF5[õ]
+5.7825,X,hF5[õ]
+5.785,X,hF5[õ]
+5.7875,X,hF5[õ]
+5.79,X,hF5[õ]
+5.7925,X,hF5[õ]
+5.795,h41[A],hF5[õ]
+5.7975,h41[A],hF5[õ]
+5.8,h41[A],hF5[õ]
+5.8025,h41[A],hF5[õ]
+5.805,h41[A],hF5[õ]
+5.8075,h41[A],hF5[õ]
+5.81,h41[A],hF5[õ]
+5.8125,h41[A],hF5[õ]
+5.815,h41[A],hF5[õ]
+5.8175,h41[A],hF5[õ]
+5.82,h41[A],hF5[õ]
+5.8225,h41[A],hF5[õ]
+5.825,h41[A],hF5[õ]
+5.8275,h41[A],hF5[õ]
+5.83,h41[A],hF5[õ]
+5.8325,h41[A],hF5[õ]
+5.835,h41[A],hF5[õ]
+5.8375,h41[A],hF5[õ]
+5.84,h41[A],hF5[õ]
+5.8425,h41[A],hF5[õ]
+5.845,h41[A],hF5[õ]
+5.8475,h41[A],hF5[õ]
+5.85,h41[A],hF5[õ]
+5.8525,h41[A],hF5[õ]
+5.855,h41[A],hF5[õ]
+5.8575,h41[A],hF5[õ]
+5.86,h41[A],hF5[õ]
+5.8625,h41[A],hF5[õ]
+5.865,h41[A],hF5[õ]
+5.8675,h41[A],hF5[õ]
+5.87,h41[A],hF5[õ]
+5.8725,h41[A],hF5[õ]
+5.875,h41[A],hF5[õ]
+5.8775,h41[A],hF5[õ]
+5.88,h41[A],hF5[õ]
+5.8825,h41[A],hF5[õ]
+5.885,h41[A],hF5[õ]
+5.8875,h41[A],hF5[õ]
+5.89,h41[A],hF5[õ]
+5.8925,h41[A],hF5[õ]
+5.895,h41[A],hF5[õ]
+5.8975,h41[A],hF5[õ]
+5.9,h41[A],hF5[õ]
+5.9025,h41[A],hF5[õ]
+5.905,h41[A],hF5[õ]
+5.9075,h41[A],hF5[õ]
+5.91,h41[A],hF5[õ]
+5.9125,h41[A],hF5[õ]
+5.915,h41[A],hF5[õ]
+5.9175,h41[A],hF5[õ]
+5.92,h41[A],hF5[õ]
+5.9225,h41[A],hF5[õ]
+5.925,h41[A],hF5[õ]
+5.9275,h41[A],hF5[õ]
+5.93,h41[A],hF5[õ]
+5.9325,h41[A],hF5[õ]
+5.935,h41[A],hF5[õ]
+5.9375,h41[A],hF5[õ]
+5.94,h41[A],hF5[õ]
+5.9425,h41[A],hF5[õ]
+5.945,h41[A],hF5[õ]
+5.9475,h41[A],hF5[õ]
+5.95,h41[A],hF5[õ]
+5.9525,h41[A],hF5[õ]
+5.955,h41[A],hF5[õ]
+5.9575,h41[A],hF5[õ]
+5.96,h41[A],hF5[õ]
+5.9625,h41[A],hF5[õ]
+5.965,h41[A],hF5[õ]
+5.9675,h41[A],hF5[õ]
+5.97,h41[A],hF5[õ]
+5.9725,h41[A],hF5[õ]
+5.975,h41[A],hF5[õ]
+5.9775,h41[A],hF5[õ]
+5.98,h41[A],hF5[õ]
+5.9825,h41[A],hF5[õ]
+5.985,h41[A],hF5[õ]
+5.9875,h41[A],hF5[õ]
+5.99,h41[A],hF5[õ]
+5.9925,h41[A],hF5[õ]
+5.995,h41[A],hF5[õ]
+5.9975,h41[A],hF5[õ]
+6,h41[A],hF5[õ]
+6.0025,h41[A],hF5[õ]
+6.005,h41[A],hF5[õ]
+6.0075,h41[A],hF5[õ]
+6.01,h41[A],hF5[õ]
+6.0125,h41[A],hF5[õ]
+6.015,h41[A],hF5[õ]
+6.0175,h41[A],hF5[õ]
+6.02,h41[A],hF5[õ]
+6.0225,h41[A],hF5[õ]
+6.025,h41[A],hF5[õ]
+6.0275,h41[A],hF5[õ]
+6.03,h41[A],hF5[õ]
+6.0325,h41[A],hF5[õ]
+6.035,h41[A],hF5[õ]
+6.0375,h41[A],hF5[õ]
+6.04,h41[A],hF5[õ]
+6.0425,h41[A],hF5[õ]
+6.045,h41[A],hF5[õ]
+6.0475,h41[A],hF5[õ]
+6.05,h41[A],hF5[õ]
+6.0525,h41[A],hF5[õ]
+6.055,h41[A],hF5[õ]
+6.0575,h41[A],hF5[õ]
+6.06,h41[A],hF5[õ]
+6.0625,h41[A],hF5[õ]
+6.065,h41[A],hF5[õ]
+6.0675,h41[A],hF5[õ]
+6.07,h41[A],hF5[õ]
+6.0725,h41[A],hF5[õ]
+6.075,h41[A],hF5[õ]
+6.0775,h41[A],hF5[õ]
+6.08,h41[A],hF5[õ]
+6.0825,h41[A],hF5[õ]
+6.085,h41[A],hF5[õ]
+6.0875,h41[A],hF5[õ]
+6.09,h41[A],hF5[õ]
+6.0925,h41[A],hF5[õ]
+6.095,h41[A],hF5[õ]
+6.0975,h41[A],hF5[õ]
+6.1,h41[A],hF5[õ]
+6.1025,h41[A],hF5[õ]
+6.105,h41[A],hF5[õ]
+6.1075,h41[A],hF5[õ]
+6.11,h41[A],hF5[õ]
+6.1125,h41[A],hF5[õ]
+6.115,h41[A],hF5[õ]
+6.1175,h41[A],hF5[õ]
+6.12,h41[A],hF5[õ]
+6.1225,h41[A],hF5[õ]
+6.125,h41[A],X
+6.1275,h41[A],X
+6.13,h41[A],X
+6.1325,h41[A],X
+6.135,h41[A],X
+6.1375,h41[A],X
+6.14,h41[A],X
+6.1425,h41[A],X
+6.145,h41[A],h01[SOH] Framing Error
+6.1475,h41[A],h01[SOH] Framing Error
+6.15,h41[A],h01[SOH] Framing Error
+6.1525,h41[A],h01[SOH] Framing Error
+6.155,h41[A],h01[SOH] Framing Error
+6.1575,h41[A],h01[SOH] Framing Error
+6.16,h41[A],h01[SOH] Framing Error
+6.1625,h41[A],h01[SOH] Framing Error
+6.165,h41[A],h01[SOH] Framing Error
+6.1675,h41[A],h01[SOH] Framing Error
+6.17,h41[A],h01[SOH] Framing Error
+6.1725,h41[A],h01[SOH] Framing Error
+6.175,h41[A],h01[SOH] Framing Error
+6.1775,h41[A],h01[SOH] Framing Error
+6.18,h41[A],h01[SOH] Framing Error
+6.1825,h41[A],h01[SOH] Framing Error
+6.185,h41[A],h01[SOH] Framing Error
+6.1875,h41[A],h01[SOH] Framing Error
+6.19,h41[A],h01[SOH] Framing Error
+6.1925,h41[A],h01[SOH] Framing Error
+6.195,h41[A],h01[SOH] Framing Error
+6.1975,h41[A],h01[SOH] Framing Error
+6.2,h41[A],h01[SOH] Framing Error
+6.2025,h41[A],h01[SOH] Framing Error
+6.205,h41[A],h01[SOH] Framing Error
+6.2075,h41[A],h01[SOH] Framing Error
+6.21,h41[A],h01[SOH] Framing Error
+6.2125,h41[A],h01[SOH] Framing Error
+6.215,h41[A],h01[SOH] Framing Error
+6.2175,h41[A],h01[SOH] Framing Error
+6.22,h41[A],h01[SOH] Framing Error
+6.2225,h41[A],h01[SOH] Framing Error
+6.225,h41[A],h01[SOH] Framing Error
+6.2275,h41[A],h01[SOH] Framing Error
+6.23,h41[A],h01[SOH] Framing Error
+6.2325,h41[A],h01[SOH] Framing Error
+6.235,h41[A],h01[SOH] Framing Error
+6.2375,h41[A],h01[SOH] Framing Error
+6.24,h41[A],h01[SOH] Framing Error
+6.2425,h41[A],h01[SOH] Framing Error
+6.245,h41[A],h01[SOH] Framing Error
+6.2475,h41[A],h01[SOH] Framing Error
+6.25,h41[A],h01[SOH] Framing Error
+6.2525,h41[A],h01[SOH] Framing Error
+6.255,h41[A],h01[SOH] Framing Error
+6.2575,h41[A],h01[SOH] Framing Error
+6.26,h41[A],h01[SOH] Framing Error
+6.2625,h41[A],h01[SOH] Framing Error
+6.265,h41[A],h01[SOH] Framing Error
+6.2675,h41[A],h01[SOH] Framing Error
+6.27,h41[A],h01[SOH] Framing Error
+6.2725,X,h01[SOH] Framing Error
+6.275,X,h01[SOH] Framing Error
+6.2775,X,h01[SOH] Framing Error
+6.28,X,h01[SOH] Framing Error
+6.2825,X,h01[SOH] Framing Error
+6.285,X,h01[SOH] Framing Error
+6.2875,X,h01[SOH] Framing Error
+6.29,X,h01[SOH] Framing Error
+6.2925,X,h01[SOH] Framing Error
+6.295,X,h01[SOH] Framing Error
+6.2975,X,h01[SOH] Framing Error
+6.3,X,h01[SOH] Framing Error
+6.3025,X,h01[SOH] Framing Error
+6.305,X,h01[SOH] Framing Error
+6.3075,X,h01[SOH] Framing Error
+6.31,X,h01[SOH] Framing Error
+6.3125,X,h01[SOH] Framing Error
+6.315,X,h01[SOH] Framing Error
+6.3175,X,h01[SOH] Framing Error
+6.32,X,h01[SOH] Framing Error
+6.3225,X,h01[SOH] Framing Error
+6.325,X,h01[SOH] Framing Error
+6.3275,X,h01[SOH] Framing Error
+6.33,X,h01[SOH] Framing Error
+6.3325,X,h01[SOH] Framing Error
+6.335,X,h01[SOH] Framing Error
+6.3375,X,h01[SOH] Framing Error
+6.34,X,h01[SOH] Framing Error
+6.3425,X,h01[SOH] Framing Error
+6.345,X,h01[SOH] Framing Error
+6.3475,X,h01[SOH] Framing Error
+6.35,X,h01[SOH] Framing Error
+6.3525,X,h01[SOH] Framing Error
+6.355,X,h01[SOH] Framing Error
+6.3575,X,h01[SOH] Framing Error
+6.36,X,h01[SOH] Framing Error
+6.3625,X,h01[SOH] Framing Error
+6.365,X,h01[SOH] Framing Error
+6.3675,X,h01[SOH] Framing Error
+6.37,X,h01[SOH] Framing Error
+6.3725,X,h01[SOH] Framing Error
+6.375,X,h01[SOH] Framing Error
+6.3775,X,h01[SOH] Framing Error
+6.38,X,h01[SOH] Framing Error
+6.3825,X,h01[SOH] Framing Error
+6.385,X,h01[SOH] Framing Error
+6.3875,X,h01[SOH] Framing Error
+6.39,X,h01[SOH] Framing Error
+6.3925,X,h01[SOH] Framing Error
+6.395,X,h01[SOH] Framing Error
+6.3975,X,h01[SOH] Framing Error
+6.4,X,h01[SOH] Framing Error
+6.4025,X,h01[SOH] Framing Error
+6.405,X,h01[SOH] Framing Error
+6.4075,X,h01[SOH] Framing Error
+6.41,X,h01[SOH] Framing Error
+6.4125,X,h01[SOH] Framing Error
+6.415,X,h01[SOH] Framing Error
+6.4175,X,h01[SOH] Framing Error
+6.42,X,h01[SOH] Framing Error
+6.4225,X,h01[SOH] Framing Error
+6.425,X,h01[SOH] Framing Error
+6.4275,X,h01[SOH] Framing Error
+6.43,X,h01[SOH] Framing Error
+6.4325,X,h01[SOH] Framing Error
+6.435,X,h01[SOH] Framing Error
+6.4375,X,h01[SOH] Framing Error
+6.44,X,h01[SOH] Framing Error
+6.4425,X,h01[SOH] Framing Error
+6.445,X,h01[SOH] Framing Error
+6.4475,X,h01[SOH] Framing Error
+6.45,X,h01[SOH] Framing Error
+6.4525,X,h01[SOH] Framing Error
+6.455,X,h01[SOH] Framing Error
+6.4575,X,h01[SOH] Framing Error
+6.46,X,h01[SOH] Framing Error
+6.4625,X,h01[SOH] Framing Error
+6.465,X,h01[SOH] Framing Error
+6.4675,X,h01[SOH] Framing Error
+6.47,X,h01[SOH] Framing Error
+6.4725,X,h01[SOH] Framing Error
+6.475,X,h01[SOH] Framing Error
+6.4775,X,h01[SOH] Framing Error
+6.48,X,h01[SOH] Framing Error
+6.4825,X,h01[SOH] Framing Error
+6.485,X,h01[SOH] Framing Error
+6.4875,X,h01[SOH] Framing Error
+6.49,X,h01[SOH] Framing Error
+6.4925,X,h01[SOH] Framing Error
+6.495,X,h01[SOH] Framing Error
+6.4975,X,h01[SOH] Framing Error
+6.5,X,h01[SOH] Framing Error
+6.5025,X,h01[SOH] Framing Error
+6.505,X,h01[SOH] Framing Error
+6.5075,X,h01[SOH] Framing Error
+6.51,X,h01[SOH] Framing Error
+6.5125,X,h01[SOH] Framing Error
+6.515,X,h01[SOH] Framing Error
+6.5175,X,h01[SOH] Framing Error
+6.52,X,h01[SOH] Framing Error
+6.5225,X,h01[SOH] Framing Error
+6.525,X,h01[SOH] Framing Error
+6.5275,X,h01[SOH] Framing Error
+6.53,X,h01[SOH] Framing Error
+6.5325,X,h01[SOH] Framing Error
+6.535,X,h01[SOH] Framing Error
+6.5375,X,h01[SOH] Framing Error
+6.54,X,h01[SOH] Framing Error
+6.5425,X,h01[SOH] Framing Error
+6.545,X,h01[SOH] Framing Error
+6.5475,X,h01[SOH] Framing Error
+6.55,X,h01[SOH] Framing Error
+6.5525,X,h01[SOH] Framing Error
+6.555,X,h01[SOH] Framing Error
+6.5575,X,h01[SOH] Framing Error
+6.56,X,h01[SOH] Framing Error
+6.5625,X,h01[SOH] Framing Error
+6.565,X,h01[SOH] Framing Error
+6.5675,X,h01[SOH] Framing Error
+6.57,X,h01[SOH] Framing Error
+6.5725,X,h01[SOH] Framing Error
+6.575,X,h01[SOH] Framing Error
+6.5775,X,h01[SOH] Framing Error
+6.58,X,h01[SOH] Framing Error
+6.5825,X,h01[SOH] Framing Error
+6.585,X,h01[SOH] Framing Error
+6.5875,X,h01[SOH] Framing Error
+6.59,X,h01[SOH] Framing Error
+6.5925,X,h01[SOH] Framing Error
+6.595,X,h01[SOH] Framing Error
+6.5975,X,h01[SOH] Framing Error
+6.6,X,h01[SOH] Framing Error
+6.6025,X,h01[SOH] Framing Error
+6.605,X,h01[SOH] Framing Error
+6.6075,X,h01[SOH] Framing Error
+6.61,X,h01[SOH] Framing Error
+6.6125,X,h01[SOH] Framing Error
+6.615,X,h01[SOH] Framing Error
+6.6175,X,h01[SOH] Framing Error
+6.62,X,h01[SOH] Framing Error
+6.6225,X,X
+6.625,X,X
+6.6275,X,X
+6.63,X,X
+6.6325,X,X
+6.635,X,X
+6.6375,X,X
+6.64,X,X
+6.6425,X,X
+6.645,X,X
+6.6475,X,X
+6.65,X,X
+6.6525,X,X
+6.655,X,X
+6.6575,X,X
+6.66,X,X
+6.6625,X,X
+6.665,X,X
+6.6675,X,X
+6.67,X,X
+6.6725,X,X
+6.675,X,X
+6.6775,X,X
+6.68,X,X
+6.6825,X,X
+6.685,X,X
+6.6875,X,X
+6.69,X,X
+6.6925,X,X
+6.695,X,X
+6.6975,X,X
+6.7,X,X
+6.7025,X,X
+6.705,X,X
+6.7075,X,X
+6.71,X,X
+6.7125,X,X
+6.715,X,X
+6.7175,X,X
+6.72,X,X
+6.7225,X,X
+6.725,X,X
+6.7275,X,X
+6.73,X,X
+6.7325,X,X
+6.735,X,X
+6.7375,X,X
+6.74,X,X
+6.7425,X,X
+6.745,X,X
+6.7475,X,X
+6.75,X,X
+6.7525,X,X
+6.755,X,X
+6.7575,X,X
+6.76,X,X
+6.7625,X,X
+6.765,X,X
+6.7675,X,X
+6.77,X,X
+6.7725,X,X
+6.775,X,X
+6.7775,X,X
+6.78,X,X
+6.7825,X,X
+6.785,X,X
+6.7875,X,X
+6.79,X,X
+6.7925,h42[B],X
+6.795,h42[B],X
+6.7975,h42[B],X
+6.8,h42[B],X
+6.8025,h42[B],X
+6.805,h42[B],X
+6.8075,h42[B],X
+6.81,h42[B],X
+6.8125,h42[B],X
+6.815,h42[B],X
+6.8175,h42[B],X
+6.82,h42[B],X
+6.8225,h42[B],X
+6.825,h42[B],X
+6.8275,h42[B],X
+6.83,h42[B],X
+6.8325,h42[B],X
+6.835,h42[B],X
+6.8375,h42[B],X
+6.84,h42[B],X
+6.8425,h42[B],X
+6.845,h42[B],X
+6.8475,h42[B],X
+6.85,h42[B],X
+6.8525,h42[B],X
+6.855,h42[B],X
+6.8575,h42[B],X
+6.86,h42[B],X
+6.8625,h42[B],X
+6.865,h42[B],X
+6.8675,h42[B],X
+6.87,h42[B],X
+6.8725,h42[B],X
+6.875,h42[B],X
+6.8775,h42[B],X
+6.88,h42[B],X
+6.8825,h42[B],X
+6.885,h42[B],X
+6.8875,h42[B],X
+6.89,h42[B],hAF[¯] Framing Error
+6.8925,h42[B],hAF[¯] Framing Error
+6.895,h42[B],hAF[¯] Framing Error
+6.8975,h42[B],hAF[¯] Framing Error
+6.9,h42[B],hAF[¯] Framing Error
+6.9025,h42[B],hAF[¯] Framing Error
+6.905,h42[B],hAF[¯] Framing Error
+6.9075,h42[B],hAF[¯] Framing Error
+6.91,h42[B],hAF[¯] Framing Error
+6.9125,h42[B],hAF[¯] Framing Error
+6.915,h42[B],hAF[¯] Framing Error
+6.9175,h42[B],hAF[¯] Framing Error
+6.92,h42[B],hAF[¯] Framing Error
+6.9225,h42[B],hAF[¯] Framing Error
+6.925,h42[B],hAF[¯] Framing Error
+6.9275,h42[B],hAF[¯] Framing Error
+6.93,h42[B],hAF[¯] Framing Error
+6.9325,h42[B],hAF[¯] Framing Error
+6.935,h42[B],hAF[¯] Framing Error
+6.9375,h42[B],hAF[¯] Framing Error
+6.94,h42[B],hAF[¯] Framing Error
+6.9425,h42[B],hAF[¯] Framing Error
+6.945,h42[B],hAF[¯] Framing Error
+6.9475,h42[B],hAF[¯] Framing Error
+6.95,h42[B],hAF[¯] Framing Error
+6.9525,h42[B],hAF[¯] Framing Error
+6.955,h42[B],hAF[¯] Framing Error
+6.9575,h42[B],hAF[¯] Framing Error
+6.96,h42[B],hAF[¯] Framing Error
+6.9625,h42[B],hAF[¯] Framing Error
+6.965,h42[B],hAF[¯] Framing Error
+6.9675,h42[B],hAF[¯] Framing Error
+6.97,h42[B],hAF[¯] Framing Error
+6.9725,h42[B],hAF[¯] Framing Error
+6.975,h42[B],hAF[¯] Framing Error
+6.9775,h42[B],hAF[¯] Framing Error
+6.98,h42[B],hAF[¯] Framing Error
+6.9825,h42[B],hAF[¯] Framing Error
+6.985,h42[B],hAF[¯] Framing Error
+6.9875,h42[B],hAF[¯] Framing Error
+6.99,h42[B],hAF[¯] Framing Error
+6.9925,h42[B],hAF[¯] Framing Error
+6.995,h42[B],hAF[¯] Framing Error
+6.9975,h42[B],hAF[¯] Framing Error
+7,h42[B],hAF[¯] Framing Error
+7.0025,h42[B],hAF[¯] Framing Error
+7.005,h42[B],hAF[¯] Framing Error
+7.0075,h42[B],hAF[¯] Framing Error
+7.01,h42[B],hAF[¯] Framing Error
+7.0125,h42[B],hAF[¯] Framing Error
+7.015,h42[B],hAF[¯] Framing Error
+7.0175,h42[B],hAF[¯] Framing Error
+7.02,h42[B],hAF[¯] Framing Error
+7.0225,h42[B],hAF[¯] Framing Error
+7.025,h42[B],hAF[¯] Framing Error
+7.0275,h42[B],hAF[¯] Framing Error
+7.03,h42[B],hAF[¯] Framing Error
+7.0325,h42[B],hAF[¯] Framing Error
+7.035,h42[B],hAF[¯] Framing Error
+7.0375,h42[B],hAF[¯] Framing Error
+7.04,h42[B],hAF[¯] Framing Error
+7.0425,h42[B],hAF[¯] Framing Error
+7.045,h42[B],hAF[¯] Framing Error
+7.0475,h42[B],hAF[¯] Framing Error
+7.05,h42[B],hAF[¯] Framing Error
+7.0525,h42[B],hAF[¯] Framing Error
+7.055,h42[B],hAF[¯] Framing Error
+7.0575,h42[B],hAF[¯] Framing Error
+7.06,h42[B],hAF[¯] Framing Error
+7.0625,h42[B],hAF[¯] Framing Error
+7.065,h42[B],hAF[¯] Framing Error
+7.0675,h42[B],hAF[¯] Framing Error
+7.07,h42[B],hAF[¯] Framing Error
+7.0725,h42[B],hAF[¯] Framing Error
+7.075,h42[B],hAF[¯] Framing Error
+7.0775,h42[B],hAF[¯] Framing Error
+7.08,h42[B],hAF[¯] Framing Error
+7.0825,h42[B],hAF[¯] Framing Error
+7.085,h42[B],hAF[¯] Framing Error
+7.0875,h42[B],hAF[¯] Framing Error
+7.09,h42[B],hAF[¯] Framing Error
+7.0925,h42[B],hAF[¯] Framing Error
+7.095,h42[B],hAF[¯] Framing Error
+7.0975,h42[B],hAF[¯] Framing Error
+7.1,h42[B],hAF[¯] Framing Error
+7.1025,h42[B],hAF[¯] Framing Error
+7.105,h42[B],hAF[¯] Framing Error
+7.1075,h42[B],hAF[¯] Framing Error
+7.11,h42[B],hAF[¯] Framing Error
+7.1125,h42[B],hAF[¯] Framing Error
+7.115,h42[B],hAF[¯] Framing Error
+7.1175,h42[B],hAF[¯] Framing Error
+7.12,h42[B],hAF[¯] Framing Error
+7.1225,h42[B],hAF[¯] Framing Error
+7.125,h42[B],hAF[¯] Framing Error
+7.1275,h42[B],hAF[¯] Framing Error
+7.13,h42[B],hAF[¯] Framing Error
+7.1325,h42[B],hAF[¯] Framing Error
+7.135,h42[B],hAF[¯] Framing Error
+7.1375,h42[B],hAF[¯] Framing Error
+7.14,h42[B],hAF[¯] Framing Error
+7.1425,h42[B],hAF[¯] Framing Error
+7.145,h42[B],hAF[¯] Framing Error
+7.1475,h42[B],hAF[¯] Framing Error
+7.15,h42[B],hAF[¯] Framing Error
+7.1525,h42[B],hAF[¯] Framing Error
+7.155,h42[B],hAF[¯] Framing Error
+7.1575,h42[B],hAF[¯] Framing Error
+7.16,h42[B],hAF[¯] Framing Error
+7.1625,h42[B],hAF[¯] Framing Error
+7.165,h42[B],hAF[¯] Framing Error
+7.1675,h42[B],hAF[¯] Framing Error
+7.17,h42[B],hAF[¯] Framing Error
+7.1725,h42[B],hAF[¯] Framing Error
+7.175,h42[B],hAF[¯] Framing Error
+7.1775,h42[B],hAF[¯] Framing Error
+7.18,h42[B],hAF[¯] Framing Error
+7.1825,h42[B],hAF[¯] Framing Error
+7.185,h42[B],hAF[¯] Framing Error
+7.1875,h42[B],hAF[¯] Framing Error
+7.19,h42[B],hAF[¯] Framing Error
+7.1925,h42[B],hAF[¯] Framing Error
+7.195,h42[B],hAF[¯] Framing Error
+7.1975,h42[B],hAF[¯] Framing Error
+7.2,h42[B],hAF[¯] Framing Error
+7.2025,h42[B],hAF[¯] Framing Error
+7.205,h42[B],hAF[¯] Framing Error
+7.2075,h42[B],hAF[¯] Framing Error
+7.21,h42[B],hAF[¯] Framing Error
+7.2125,h42[B],hAF[¯] Framing Error
+7.215,h42[B],hAF[¯] Framing Error
+7.2175,h42[B],hAF[¯] Framing Error
+7.22,h42[B],hAF[¯] Framing Error
+7.2225,h42[B],hAF[¯] Framing Error
+7.225,h42[B],hAF[¯] Framing Error
+7.2275,h42[B],hAF[¯] Framing Error
+7.23,h42[B],hAF[¯] Framing Error
+7.2325,h42[B],hAF[¯] Framing Error
+7.235,h42[B],hAF[¯] Framing Error
+7.2375,h42[B],hAF[¯] Framing Error
+7.24,h42[B],hAF[¯] Framing Error
+7.2425,h42[B],hAF[¯] Framing Error
+7.245,h42[B],hAF[¯] Framing Error
+7.2475,h42[B],hAF[¯] Framing Error
+7.25,h42[B],hAF[¯] Framing Error
+7.2525,h42[B],hAF[¯] Framing Error
+7.255,h42[B],hAF[¯] Framing Error
+7.2575,h42[B],hAF[¯] Framing Error
+7.26,h42[B],hAF[¯] Framing Error
+7.2625,h42[B],hAF[¯] Framing Error
+7.265,h42[B],hAF[¯] Framing Error
+7.2675,h42[B],hAF[¯] Framing Error
+7.27,X,hAF[¯] Framing Error
+7.2725,X,hAF[¯] Framing Error
+7.275,X,hAF[¯] Framing Error
+7.2775,X,hAF[¯] Framing Error
+7.28,X,hAF[¯] Framing Error
+7.2825,X,hAF[¯] Framing Error
+7.285,X,hAF[¯] Framing Error
+7.2875,X,hAF[¯] Framing Error
+7.29,X,hAF[¯] Framing Error
+7.2925,h0F[SI],hAF[¯] Framing Error
+7.295,h0F[SI],hAF[¯] Framing Error
+7.2975,h0F[SI],hAF[¯] Framing Error
+7.3,h0F[SI],hAF[¯] Framing Error
+7.3025,h0F[SI],hAF[¯] Framing Error
+7.305,h0F[SI],hAF[¯] Framing Error
+7.3075,h0F[SI],hAF[¯] Framing Error
+7.31,h0F[SI],hAF[¯] Framing Error
+7.3125,h0F[SI],hAF[¯] Framing Error
+7.315,h0F[SI],hAF[¯] Framing Error
+7.3175,h0F[SI],hAF[¯] Framing Error
+7.32,h0F[SI],hAF[¯] Framing Error
+7.3225,h0F[SI],hAF[¯] Framing Error
+7.325,h0F[SI],hAF[¯] Framing Error
+7.3275,h0F[SI],hAF[¯] Framing Error
+7.33,h0F[SI],hAF[¯] Framing Error
+7.3325,h0F[SI],hAF[¯] Framing Error
+7.335,h0F[SI],hAF[¯] Framing Error
+7.3375,h0F[SI],hAF[¯] Framing Error
+7.34,h0F[SI],hAF[¯] Framing Error
+7.3425,h0F[SI],hAF[¯] Framing Error
+7.345,h0F[SI],hAF[¯] Framing Error
+7.3475,h0F[SI],hAF[¯] Framing Error
+7.35,h0F[SI],hAF[¯] Framing Error
+7.3525,h0F[SI],hAF[¯] Framing Error
+7.355,h0F[SI],hAF[¯] Framing Error
+7.3575,h0F[SI],hAF[¯] Framing Error
+7.36,h0F[SI],hAF[¯] Framing Error
+7.3625,h0F[SI],hAF[¯] Framing Error
+7.365,h0F[SI],hAF[¯] Framing Error
+7.3675,h0F[SI],X
+7.37,h0F[SI],X
+7.3725,h0F[SI],X
+7.375,h0F[SI],X
+7.3775,h0F[SI],X
+7.38,h0F[SI],X
+7.3825,h0F[SI],X
+7.385,h0F[SI],X
+7.3875,h0F[SI],X
+7.39,h0F[SI],X
+7.3925,h0F[SI],X
+7.395,h0F[SI],X
+7.3975,h0F[SI],X
+7.4,h0F[SI],X
+7.4025,h0F[SI],X
+7.405,h0F[SI],X
+7.4075,h0F[SI],X
+7.41,h0F[SI],X
+7.4125,h0F[SI],X
+7.415,h0F[SI],X
+7.4175,h0F[SI],X
+7.42,h0F[SI],X
+7.4225,h0F[SI],X
+7.425,h0F[SI],X
+7.4275,h0F[SI],X
+7.43,h0F[SI],X
+7.4325,h0F[SI],X
+7.435,h0F[SI],X
+7.4375,h0F[SI],X
+7.44,h0F[SI],X
+7.4425,h0F[SI],X
+7.445,h0F[SI],X
+7.4475,h0F[SI],X
+7.45,h0F[SI],X
+7.4525,h0F[SI],X
+7.455,h0F[SI],X
+7.4575,h0F[SI],X
+7.46,h0F[SI],X
+7.4625,h0F[SI],X
+7.465,h0F[SI],X
+7.4675,h0F[SI],X
+7.47,h0F[SI],X
+7.4725,h0F[SI],X
+7.475,h0F[SI],X
+7.4775,h0F[SI],X
+7.48,h0F[SI],X
+7.4825,h0F[SI],X
+7.485,h0F[SI],X
+7.4875,h0F[SI],X
+7.49,h0F[SI],X
+7.4925,h0F[SI],X
+7.495,h0F[SI],X
+7.4975,h0F[SI],X
+7.5,h0F[SI],X
+7.5025,h0F[SI],X
+7.505,h0F[SI],X
+7.5075,h0F[SI],X
+7.51,h0F[SI],X
+7.5125,h0F[SI],X
+7.515,h0F[SI],X
+7.5175,h0F[SI],X
+7.52,h0F[SI],X
+7.5225,h0F[SI],X
+7.525,h0F[SI],X
+7.5275,h0F[SI],X
+7.53,h0F[SI],X
+7.5325,h0F[SI],X
+7.535,h0F[SI],X
+7.5375,h0F[SI],X
+7.54,h0F[SI],X
+7.5425,h0F[SI],X
+7.545,h0F[SI],X
+7.5475,h0F[SI],X
+7.55,h0F[SI],X
+7.5525,h0F[SI],X
+7.555,h0F[SI],X
+7.5575,h0F[SI],X
+7.56,h0F[SI],X
+7.5625,h0F[SI],X
+7.565,h0F[SI],X
+7.5675,h0F[SI],X
+7.57,h0F[SI],X
+7.5725,h0F[SI],X
+7.575,h0F[SI],X
+7.5775,h0F[SI],X
+7.58,h0F[SI],X
+7.5825,h0F[SI],X
+7.585,h0F[SI],X
+7.5875,h0F[SI],X
+7.59,h0F[SI],X
+7.5925,h0F[SI],X
+7.595,h0F[SI],X
+7.5975,h0F[SI],X
+7.6,h0F[SI],X
+7.6025,h0F[SI],X
+7.605,h0F[SI],X
+7.6075,h0F[SI],X
+7.61,h0F[SI],X
+7.6125,h0F[SI],X
+7.615,h0F[SI],X
+7.6175,h0F[SI],X
+7.62,h0F[SI],X
