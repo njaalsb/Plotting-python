@@ -6,10 +6,10 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+start, stop = 850000,900000
 
 # Plot 1:
-FILE_NAME = r"TXT filer\LTC3807.txt"
+FILE_NAME = r"Buck_converter_0_5_ohm.txt"
 
 with open(FILE_NAME, "r") as f:
 	first_row = f.readline()
@@ -20,7 +20,7 @@ my_data_PLOT1 = np.genfromtxt(FILE_NAME, delimiter='\t')
 x_1 = []
 y_1 = []    
 
-for i in range(156000, 198000):
+for i in range(start, stop):
     x1 = float(my_data_PLOT1[i][0])
     y1 = float(my_data_PLOT1[i][1])	
     if not (math.isnan(x1) or math.isnan(y1)):
@@ -29,12 +29,11 @@ for i in range(156000, 198000):
         #x.append(abs(200*np.log(x1)))
         
 
-
 print ("mean = %f" %(np.mean(y_1)))
 
 # Plot 2:
 
-FILE_NAME_PLOT2 = r"TXT filer\LTC38072.txt"
+FILE_NAME_PLOT2 = r"Buck_converter_1_ohm.txt"
 
 with open(FILE_NAME_PLOT2, "r") as f:
 	first_row = f.readline()
@@ -45,7 +44,7 @@ my_data_PLOT2 = np.genfromtxt(FILE_NAME_PLOT2, delimiter='\t')
 x_2 = []
 y_2 = []    
 
-for i in range(156000, 198000):
+for i in range(start, stop):
     x2 = float(my_data_PLOT2[i][0])
     y2 = float(my_data_PLOT2[i][1])	
     if not (math.isnan(x1) or math.isnan(y1)):
@@ -57,7 +56,7 @@ print ("mean = %f" %(np.mean(y_2)))
 
 # Plot 3:
 
-FILE_NAME_PLOT3 = r"TXT filer\LTC38073.txt"
+FILE_NAME_PLOT3 = r"Buck_converter_10_ohm.txt"
 
 with open(FILE_NAME_PLOT3, "r") as f:
 	first_row = f.readline()
@@ -68,7 +67,7 @@ my_data_PLOT3 = np.genfromtxt(FILE_NAME_PLOT3, delimiter='\t')
 x_3 = []
 y_3 = []    
 
-for i in range(156000, 198000):
+for i in range(start, stop):
     x3 = float(my_data_PLOT3[i][0])
     y3 = float(my_data_PLOT3[i][1])	
     if not (math.isnan(x3) or math.isnan(y3)):
@@ -80,7 +79,7 @@ print ("mean = %f" %(np.mean(y_3)))
 
 # Plot 3:
 
-FILE_NAME_PLOT4 = r"TXT filer\LTC38072.txt"
+FILE_NAME_PLOT4 = r"Buck_converter_100_ohm.txt"
 
 with open(FILE_NAME_PLOT4, "r") as f:
 	first_row = f.readline()
@@ -91,7 +90,7 @@ my_data_PLOT4 = np.genfromtxt(FILE_NAME_PLOT4, delimiter='\t')
 x_4 = []
 y_4 = []    
 
-for i in range(156000, 198000):
+for i in range(start, stop):
     x4 = float(my_data_PLOT4[i][0])
     y4 = float(my_data_PLOT4[i][1])	
     if not (math.isnan(x3) or math.isnan(y3)):
@@ -103,10 +102,10 @@ print ("mean = %f" %(np.mean(y_3)))
 
 # plotting
 #plt.semilogx(x, y, label="Steg #1")
-plt.plot(x_1,y_1, label="Plot 1")
-plt.plot(x_2,y_2, label="Plot 2")
-plt.plot(x_3,y_2, label="plot 3")
-plt.plot(x_4,y_4, label ="plot 4")
+plt.plot(x_1,y_1, label="Plot 0.5 Ohm")
+plt.plot(x_2,y_2, label="Plot 1 Ohm")
+plt.plot(x_3,y_2, label="plot 10 Ohm")
+plt.plot(x_4,y_4, label ="plot 100 Ohm")
 plt.grid(True, which="both", linestyle="--", linewidth=0.5)
 
 plt.title("Rippel")
