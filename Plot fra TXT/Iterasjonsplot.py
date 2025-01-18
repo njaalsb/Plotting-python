@@ -6,7 +6,7 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
-start, stop = 850000,900000
+start, stop = 10,900000
 
 # Plot 1:
 FILE_NAME = r"Buck_converter_0_5_ohm.txt"
@@ -56,7 +56,7 @@ print ("mean = %f" %(np.mean(y_2)))
 
 # Plot 3:
 
-FILE_NAME_PLOT3 = r"Buck_converter_10_ohm.txt"
+FILE_NAME_PLOT3 = r"Buck_converter_10_ohm (1).txt"
 
 with open(FILE_NAME_PLOT3, "r") as f:
 	first_row = f.readline()
@@ -79,7 +79,7 @@ print ("mean = %f" %(np.mean(y_3)))
 
 # Plot 3:
 
-FILE_NAME_PLOT4 = r"Buck_converter_100_ohm.txt"
+FILE_NAME_PLOT4 = r"Buck_converter_100_ohm (1).txt"
 
 with open(FILE_NAME_PLOT4, "r") as f:
 	first_row = f.readline()
@@ -93,12 +93,12 @@ y_4 = []
 for i in range(start, stop):
     x4 = float(my_data_PLOT4[i][0])
     y4 = float(my_data_PLOT4[i][1])	
-    if not (math.isnan(x3) or math.isnan(y3)):
+    if not (math.isnan(x4) or math.isnan(y4)):
         x_4.append(x4)
         y_4.append(y4)
         #x.append(abs(200*np.log(x1)))
         
-print ("mean = %f" %(np.mean(y_3)))
+print ("mean = %f" %(np.mean(y_4)))
 
 # plotting
 #plt.semilogx(x, y, label="Steg #1")
