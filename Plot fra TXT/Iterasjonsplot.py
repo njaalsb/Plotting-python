@@ -104,7 +104,7 @@ print ("mean = %f" %(np.mean(y_4)))
 #plt.semilogx(x, y, label="Steg #1")
 plt.plot(x_1,y_1, label="Plot 0.5 Ohm")
 plt.plot(x_2,y_2, label="Plot 1 Ohm")
-plt.plot(x_3,y_2, label="plot 10 Ohm")
+plt.plot(x_3,y_3, label="plot 10 Ohm")
 plt.plot(x_4,y_4, label ="plot 100 Ohm")
 plt.grid(True, which="both", linestyle="--", linewidth=0.5)
 
