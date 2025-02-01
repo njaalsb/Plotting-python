@@ -26,7 +26,7 @@ def parse_line(line):
     return None
 
 # File path (update with your actual file path)
-file_path = "TXT filer\steg1.txt"  # Replace with the correct file name
+file_path = "TXT filer\steg3.txt"  # Replace with the correct file name
 
 # Lists to store parsed data
 freqs, magnitudes_dB, phases_deg = [], [], []
@@ -52,18 +52,24 @@ if freqs.size == 0 or magnitudes_dB.size == 0 or phases_deg.size == 0:
     print("No data was parsed. Please check the file format and path.")
 else:
     # Plot the data
-    plt.figure(figsize=(12, 6))
+    # plt.figure(figsize=(12, 6))
 
     # Magnitude plot
-    plt.subplot(2, 1, 1)
+    # plt.subplot(2, 1, 1)
     plt.plot(freqs, magnitudes_dB, label="Amplitude (dB)", color='b')
     plt.xscale('log')
     plt.xlabel("Frekvens (Hz)")
     plt.ylabel("Amplitude (dB)")
     plt.title("Frekvens Respons")
     plt.grid(True, which='both', linestyle='--', linewidth=0.5)
+    # plt.legend()
+    
+    # Vert lines:
+    plt.axvline(x = 3*10**(-2), color = 'r', label = '30 mHz')
+    plt.axvline(x = 1, color = 'g', label = '1Hz')
+    plt.axvline(x = 50, color = 'y', label = '50 Hz')
     plt.legend()
-
+    '''
     # Phase plot
     plt.subplot(2, 1, 2)
     plt.plot(freqs, phases_deg, label="Fase (°)", color='r')
@@ -73,5 +79,5 @@ else:
     plt.grid(True, which='both', linestyle='--', linewidth=0.5)
     plt.legend()
 
-    plt.tight_layout()
+    plt.tight_layout()'''
     plt.show()
