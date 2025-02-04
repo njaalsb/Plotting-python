@@ -1,6 +1,7 @@
 # Kode for plot av amplituderespons og faserespons:
 # Avhengig av at enkodingen til grader (°) symbolet er UTF-8
 # Gir i utgangspunktet y-verdier i samme format som de puttes inn
+# Fjern/legg til kommentarer for å endre plot
 
 import numpy as np
 import matplotlib.pyplot as plt
