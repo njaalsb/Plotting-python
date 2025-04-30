@@ -11,6 +11,8 @@ start, stop = 10,900000
 # Plot 1:
 FILE_NAME = r"Buck_converter_0_5_ohm.txt"
 
+#FILE_NAME = r"C:\Users\bruhe\OneDrive - NTNU\Documents\ESI\ESI.sem4\IELS2031\Lab\100ohm\WFM04.CSV"
+
 with open(FILE_NAME, "r") as f:
 	first_row = f.readline()
 # print (first_row)
@@ -35,6 +37,8 @@ print ("mean = %f" %(np.mean(y_1)))
 
 FILE_NAME_PLOT2 = r"Buck_converter_1_ohm.txt"
 
+# FILE_NAME_PLOT2 = r"C:\Users\bruhe\OneDrive - NTNU\Documents\ESI\ESI.sem4\IELS2031\Lab\10ohm\WFM03.CSV"
+
 with open(FILE_NAME_PLOT2, "r") as f:
 	first_row = f.readline()
 # print (first_row)
@@ -57,6 +61,8 @@ print ("mean = %f" %(np.mean(y_2)))
 # Plot 3:
 
 FILE_NAME_PLOT3 = r"Buck_converter_10_ohm (1).txt"
+
+#FILE_NAME_PLOT3 = r"C:\Users\bruhe\OneDrive - NTNU\Documents\ESI\ESI.sem4\IELS2031\Lab\10ohm\WFM03.CSV"
 
 with open(FILE_NAME_PLOT3, "r") as f:
 	first_row = f.readline()
@@ -81,6 +87,8 @@ print ("mean = %f" %(np.mean(y_3)))
 
 FILE_NAME_PLOT4 = r"Buck_converter_100_ohm (1).txt"
 
+#FILE_NAME_PLOT4 = r"C:\Users\bruhe\OneDrive - NTNU\Documents\ESI\ESI.sem4\IELS2031\Lab\0.5ohm\WFM01.CSV"
+
 with open(FILE_NAME_PLOT4, "r") as f:
 	first_row = f.readline()
 # print (first_row)
@@ -102,21 +110,21 @@ print ("mean = %f" %(np.mean(y_4)))
 
 # plotting
 #plt.semilogx(x, y, label="Steg #1")
-plt.plot(x_1,y_1, label="Plot 0.5 Ohm")
-plt.plot(x_2,y_2, label="Plot 1 Ohm")
-plt.plot(x_3,y_3, label="plot 10 Ohm")
-plt.plot(x_4,y_4, label ="plot 100 Ohm")
+plt.plot(x_1,y_1, label="Last 0.5 Ohm")
+plt.plot(x_2,y_2, label="Last 1 Ohm")
+plt.plot(x_3,y_3, label="Last 10 Ohm")
+plt.plot(x_4,y_4, label ="Last 100 Ohm")
 plt.grid(True, which="both", linestyle="--", linewidth=0.5)
 
-plt.title("Rippel")
+plt.title("Rippelspenning - LTSpice simulering")
 
 # plt.title("$"+first_row.split('\t')[1][:-1] + " $")
 """if math.isnan(my_data_PLOT4[0][0]) and math.isnan(my_data_PLOT4[0][1]):
 	plt.xlabel("$"+first_row.split('\t')[0] + "\ (s)$")
 	plt.ylabel("$"+first_row.split('\t')[1][:-1] + " $")"""
  
-plt.xlabel("Amplitude (v)")
-plt.ylabel("Tid (s)")
+plt.ylabel("Amplitude (v)")
+plt.xlabel("Tid (s)")
 plt.grid(True)
 plt.legend()
 #plt.xticks(np.arange(min(x), max(x)+1, 10.0))
