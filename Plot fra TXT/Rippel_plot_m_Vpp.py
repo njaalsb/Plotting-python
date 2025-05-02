@@ -1,3 +1,4 @@
+# Denne koden tar inn 4 .txt filer, regner ut gjennomsnittlig spenning med np.mean og gir Vpp, printes i terminalen.
 import numpy as np
 import matplotlib.pyplot as plt
 
